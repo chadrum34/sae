@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "tag-board-number-sync-20260718-01",
-  "displayName": "チェック一覧の番号同期修正",
-  "publishedAt": "2026-07-18T10:48:12.7050446Z",
+  "updateId": "number-edit-day-order-20260718-01",
+  "displayName": "番号変更の単独化・DAY順固定",
+  "publishedAt": "2026-07-18T12:17:21.3793973Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/tag-board-number-sync-20260718-01.zip",
-    "sha256": "af19379379a669d4103567b23ed91b1d200ecd2915beaac0c6bed723a2f277d6",
-    "bytes": 26110
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/number-edit-day-order-20260718-01.zip",
+    "sha256": "8bae7ee825dba1eef9c36ee675f737dd23cb12ca80ca63ba64ff8df9abe0cd58",
+    "bytes": 245264
   },
-  "signature": "ZouaczyB+TRTs3Oc5G7hR+36dDkPe7Dpqgx5UUTxB+mjQwh5/PfD0uPRyLn4NGnukq/d1+wDQrHgGXyHD1/nDg=="
+  "signature": "9tCxtCRpY3xllriH33jUXsW+UQkqvn6qhX7FG/j78KiuwaYxgYkFxhBpPwSRIbY2IcfMPcgo9X2uBpG1IDwiBQ=="
 }
