@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "xiaowei-name-sequence-20260718-01",
-  "displayName": "XiaoWei名連番編集・メイン番号固定",
-  "publishedAt": "2026-07-18T14:55:08.4777995Z",
+  "updateId": "xiaowei-name-sequence-20260718-02",
+  "displayName": "XiaoWei名連番編集・更新確認修正",
+  "publishedAt": "2026-07-18T15:12:16.2317950Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/xiaowei-name-sequence-20260718-01.zip",
-    "sha256": "f4aefad20c799a3a10ce9541503d15e075e2a7b309cc7bf409c7be0c3cb0d077",
-    "bytes": 247177
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/xiaowei-name-sequence-20260718-02.zip",
+    "sha256": "4453a68b1ad9804d4f0003141cb5e9ec801f916f280247efb29b91840fbb99e3",
+    "bytes": 247993
   },
-  "signature": "aWmIhIv7E4TJ7XzTKs7l5LdLKlU4AwKu9dXkmDaVppry+zF0zGz3V5/mmsfRyakONLBhxQzyC3VFtJJYSE4UDQ=="
+  "signature": "T+sRO0+yD9+/CEyrMrwUvPA66+iEaWlto8jn9jGdnv0eoyOl2VV+Jd+yD3T1dZgSihFBd/LZfxn88cBSbdSVAw=="
 }
