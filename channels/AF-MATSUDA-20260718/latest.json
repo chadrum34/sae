@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updateId": "browser-github-baseline-20260718-01",
+  "displayName": "GitHub自動更新 初期版",
+  "publishedAt": "2026-07-18T08:23:35.4803579Z",
+  "customerId": "AF-MATSUDA-20260718",
+  "packageId": "android-fleet-browser-agent-v1",
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-github-baseline-20260718-01.zip",
+    "sha256": "9b3b49a39548937abfcca5cc4da9773d890bb47db28176e30d5b6f12a8741344",
+    "bytes": 9361
+  },
+  "signature": "DR10o9zDgs6g8B9qdjXLaM2izrlqg4ApnMfwS5wyxr2gFMzJHMDAbzp95B0dphNBdK4BqVqx9kegBL0Qc1IjAw=="
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updateId": "browser-github-baseline-20260718-01",
+  "displayName": "GitHub自動更新 初期版",
+  "publishedAt": "2026-07-18T08:23:34.4676243Z",
+  "customerId": "AF-KAZUMA-FINAL-20260714",
+  "packageId": "android-fleet-browser-agent-v1",
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-github-baseline-20260718-01.zip",
+    "sha256": "21173be093728fa5891d684dbc745d20bbadc71681c50175c1d68ff646448a19",
+    "bytes": 9363
+  },
+  "signature": "M09oerCqdyMDYsFX48dKl32QPTU7WOf5huxZh1I+0ahvjIbKSt/bannX609i30lTpLqLEZFhpUi4GI/CUM5+DA=="
+}
