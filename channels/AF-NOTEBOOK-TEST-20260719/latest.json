@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "updateId": "package-integrity-repair-20260719-01",
   "displayName": "端末DB表示復旧・正規更新判定修正",
-  "publishedAt": "2026-07-19T01:15:53.9114039Z",
+  "publishedAt": "2026-07-19T01:36:18.8232891Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
     "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/package-integrity-repair-20260719-01.zip",
-    "sha256": "7640a7634ea352674cbf9f1b05f09a1bbd110be0d5c1c8ce7e2065f26ab60900",
-    "bytes": 250824
+    "sha256": "5e9047d6a03a680de282bfde379de5688ce712692328e20e940d50cc86924f50",
+    "bytes": 251264
   },
-  "signature": "CyxhBoeDd4VmpAJzWXn/E2GbBaydFCcmlekgI7nrF0rJEJOvQX5oXw2HD9ZwEM8eLl5TWZUc7FlLGJ2tenTtCA=="
+  "signature": "Dqlwwf3amOuFHvLdYe4k7rA8WeF2fLm88xbBTvTHjwKjRbHOGJ9hN0gvMcLP67sZU3NNo+vjt6B1WUBCA4kMCQ=="
 }
