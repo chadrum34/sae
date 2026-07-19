@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "updateId": "browser-offline-device-db-20260719-01",
-  "displayName": "未接続DB・手動運用対応",
-  "publishedAt": "2026-07-19T11:11:20.9003405Z",
+  "displayName": "Offline device DB manual operations",
+  "publishedAt": "2026-07-19T12:29:25.0292565Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
     "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-offline-device-db-20260719-01.zip",
-    "sha256": "e31a739cbb0bc55a44617cc39cc164db682e9da7dda428ae7412707e0025b567",
-    "bytes": 267223
+    "sha256": "84b2d3aa34fa2f04f6c3099e760c953c0c0932ad810a2e920c358e3dd0e82301",
+    "bytes": 268681
   },
-  "signature": "STX0XPRI2ypQ7oLfp0OjCPWnr12QjLTEAsSgcNZqSkdCGYbYEoIUty3IBnyrEM3RaKJR49ZFoaKAjSEYz8n4BA=="
+  "signature": "vZcWPwVO0uckCC1oCRG9HJtvqi/6Tpu5a6JBsTeiUmE9h/UosFAE7Ol/elnjVrW+fnxdZBAJuPJP/65Hzbk4Bg=="
 }
