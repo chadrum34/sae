@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-day-numbering-sync-reliability-20260720-01",
-  "displayName": "DAY-priority numbering and sync reliability",
-  "publishedAt": "2026-07-19T15:19:23.6956719Z",
+  "updateId": "browser-day-numbering-cancel-sync-status-20260720-02",
+  "displayName": "DAY numbering cancellation safety and sync status",
+  "publishedAt": "2026-07-19T16:05:41.9861785Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-day-numbering-sync-reliability-20260720-01.zip",
-    "sha256": "d2f5090581723665e4b3cb6fabe823d8d2de35554c3b4df5a81929cd292146b0",
-    "bytes": 283863
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-day-numbering-cancel-sync-status-20260720-02.zip",
+    "sha256": "90f358e755a2a461e13ddf364f55ad10f7a5d55aa791e354bb17b11c9df52702",
+    "bytes": 284338
   },
-  "signature": "ZRD0vxjT008zBswh/IxYW1Yp9VoaJbPNjQwOoIjRaoRFdy4PoXVayb+zrr7aRV/GkxEg8HId4gsoovMIyl/hAA=="
+  "signature": "rDdpPDT+WebvKp+t8J7gTvYgZUHdx0tv0bivoqpKY1QsSKOU/0jLt0KgCb/lMlu7TFy9qMfVlzq6SnAGgqApCQ=="
 }
