@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-manual-invite-3digit-sequence-20260719-01",
-  "displayName": "親・招待相手自由入力・名前連番3桁対応",
-  "publishedAt": "2026-07-19T08:50:18.1038515Z",
+  "updateId": "browser-offline-device-db-20260719-01",
+  "displayName": "未接続DB・手動運用対応",
+  "publishedAt": "2026-07-19T10:38:17.9950219Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-manual-invite-3digit-sequence-20260719-01.zip",
-    "sha256": "a53bd80e9f6a0b6630542dd68fd6ec405981d6c245e9fb9d6d6349a30c80af41",
-    "bytes": 254460
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-offline-device-db-20260719-01.zip",
+    "sha256": "fad59d1f5b9bff714352521f244482a2130da90f3df4eaa49224b27b6422e459",
+    "bytes": 266790
   },
-  "signature": "RaHce6ktOfCk3iUPsLYY9Chhi3I1CWGgj80V5duJjlb64ZXYEQTuy+tHo3Y51mZQDDkxtljKD+Krqju4kf1NAg=="
+  "signature": "7yf84qTpZ+2oYiedYLJTBW7J6DHXEE+NPPAw2tPV4cv5qf0gGggrQ/JR7jRwGnaeYnby9RXg7FYYrBpq9lQtAg=="
 }
