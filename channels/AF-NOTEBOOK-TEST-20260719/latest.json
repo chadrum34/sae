@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-instance-ownership-repair-20260719-02",
-  "displayName": "端末DB表示復旧・起動先自動切替修正",
-  "publishedAt": "2026-07-19T01:54:25.2800495Z",
+  "updateId": "browser-manual-invite-partner-20260719-01",
+  "displayName": "親・招待相手の自由入力対応",
+  "publishedAt": "2026-07-19T06:32:48.1341553Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-instance-ownership-repair-20260719-02.zip",
-    "sha256": "b59c6ca3453817af9fb2578fd4590168bbc4cadd8d2e6ed7de636e5dbd0bc257",
-    "bytes": 253855
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-manual-invite-partner-20260719-01.zip",
+    "sha256": "b2a506389fa2920a566c5246158145ea3c5170b306fba0c83c26ef25b2e7b54a",
+    "bytes": 254156
   },
-  "signature": "461ZNAv+5kukC5jGZhERosN6IN2X0axcMzoEC8DV3EfVB2NZeseEw9ZIy7agE27+6gIjVfiaT7EqSozrDFmoBw=="
+  "signature": "PwCFFO2VP7qY51zFP7e076Xn19VLR8Fb12JinZLJI7pr2vHuxtQku9734ZxahYvyu5JsBw8BSgZlCyQZIuxRDw=="
 }
