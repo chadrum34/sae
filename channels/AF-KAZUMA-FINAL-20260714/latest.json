@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-day-numbering-cancel-sync-status-20260720-03",
-  "displayName": "DAY-priority numbering, cancellation safety, and sync status",
-  "publishedAt": "2026-07-19T16:52:32.1060910Z",
+  "updateId": "browser-xiaowei-offline-number-sync-duplicate-fix-20260720-06",
+  "displayName": "XiaoWei offline number sync duplicate DB fix",
+  "publishedAt": "2026-07-19T23:45:35.9583509Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-day-numbering-cancel-sync-status-20260720-03.zip",
-    "sha256": "29240ec2d34ad8647f99e561e03bd39e4b3673a84d6828486bc8f57e17a81cac",
-    "bytes": 284777
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-xiaowei-offline-number-sync-duplicate-fix-20260720-06.zip",
+    "sha256": "c531d7542cd6e74bd1c41d42d9b789e27185e6f0461a6f56193c6d2ee3aa3778",
+    "bytes": 288570
   },
-  "signature": "xyF8oBJzGbBLzackO0z9m9B5U4PtGmXh40DHMMYQ/6rEhjibG44DU3m5vIjF46YiwofmOjQG0OpI1YH0hC2cCQ=="
+  "signature": "2/LyT3C7ByDYduKyBVCSag9HrAXc2QulVvwRcF2o8al6DeWHfd1By6bn1Y17U3QOBP/ru6BgLahPwxjASzzzBQ=="
 }
