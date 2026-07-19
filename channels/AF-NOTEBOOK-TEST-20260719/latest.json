@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-day-numbering-cancel-sync-status-20260720-02",
-  "displayName": "DAY numbering cancellation safety and sync status",
-  "publishedAt": "2026-07-19T16:05:41.9861785Z",
+  "updateId": "browser-xiaowei-offline-number-sync-20260720-04",
+  "displayName": "XiaoWei number sync for disconnected devices",
+  "publishedAt": "2026-07-19T21:10:21.9521350Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-day-numbering-cancel-sync-status-20260720-02.zip",
-    "sha256": "90f358e755a2a461e13ddf364f55ad10f7a5d55aa791e354bb17b11c9df52702",
-    "bytes": 284338
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-offline-number-sync-20260720-04.zip",
+    "sha256": "d498febd91ff69ca262b93a05d9edc891a4d794fc3847e414d85e6be4ccd9c8c",
+    "bytes": 288177
   },
-  "signature": "rDdpPDT+WebvKp+t8J7gTvYgZUHdx0tv0bivoqpKY1QsSKOU/0jLt0KgCb/lMlu7TFy9qMfVlzq6SnAGgqApCQ=="
+  "signature": "fROOHSXUZk5yjkMG6f1IljRWPFfKzFWlQs5YqEc5x2ptA+PXyTgwEZr5bu7v2UU+teplfvBgaz3bcD5WHjvOCQ=="
 }
