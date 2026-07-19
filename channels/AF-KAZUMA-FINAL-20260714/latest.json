@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-model-order-resequence-20260719-01",
-  "displayName": "Model order resequence and offline DB edit",
-  "publishedAt": "2026-07-19T13:58:07.7007529Z",
+  "updateId": "browser-day-numbering-cancel-sync-status-20260720-03",
+  "displayName": "DAY-priority numbering, cancellation safety, and sync status",
+  "publishedAt": "2026-07-19T16:52:32.1060910Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-model-order-resequence-20260719-01.zip",
-    "sha256": "2ad22c2a3a21c5284e932942dcfd0a19b015218b7752625b097465ff1542eab1",
-    "bytes": 272744
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-day-numbering-cancel-sync-status-20260720-03.zip",
+    "sha256": "29240ec2d34ad8647f99e561e03bd39e4b3673a84d6828486bc8f57e17a81cac",
+    "bytes": 284777
   },
-  "signature": "em5vhYjA7Z0wgsIcg9NqiXBqyqCAUvH5HuaDT2mmSHhmyrJ7TKqxm3VLXEYupyd1xQ1b4IMtX9qSmUGJyH4FAw=="
+  "signature": "xyF8oBJzGbBLzackO0z9m9B5U4PtGmXh40DHMMYQ/6rEhjibG44DU3m5vIjF46YiwofmOjQG0OpI1YH0hC2cCQ=="
 }
