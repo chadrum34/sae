@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-manual-invite-3digit-sequence-20260719-01",
-  "displayName": "親・招待相手自由入力・名前連番3桁対応",
-  "publishedAt": "2026-07-19T09:18:45.2240960Z",
+  "updateId": "browser-offline-device-db-20260719-01",
+  "displayName": "未接続DB・手動運用対応",
+  "publishedAt": "2026-07-19T11:11:20.9003405Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-manual-invite-3digit-sequence-20260719-01.zip",
-    "sha256": "d1a9d9b3f0459a04cfda84ae55ac47e94949cbc9f694134a1fcd2f41fc52524d",
-    "bytes": 254904
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-offline-device-db-20260719-01.zip",
+    "sha256": "e31a739cbb0bc55a44617cc39cc164db682e9da7dda428ae7412707e0025b567",
+    "bytes": 267223
   },
-  "signature": "GRLYH7iT2koPwMIBCVvXmPzXnVubHwkmMBT+QHXb8xDTSJMHfNVRmGvHRfekwCL1MiE4mWG0bMOnMbv3VN8vBw=="
+  "signature": "STX0XPRI2ypQ7oLfp0OjCPWnr12QjLTEAsSgcNZqSkdCGYbYEoIUty3IBnyrEM3RaKJR49ZFoaKAjSEYz8n4BA=="
 }
