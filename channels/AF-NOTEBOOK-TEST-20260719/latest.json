@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "updateId": "browser-model-order-resequence-20260719-01",
   "displayName": "機種順メイン番号再採番・未接続DB編集確認",
-  "publishedAt": "2026-07-19T13:05:29.7602690Z",
+  "publishedAt": "2026-07-19T13:33:44.4689593Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
     "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-model-order-resequence-20260719-01.zip",
-    "sha256": "545d61c8633940cfe27897a4807c3ba54b2d9f383e13cdfb186d6c195250aa46",
-    "bytes": 269273
+    "sha256": "7a4e6c4f1b126507966c0ec9f4d063efd26e5ae880c7c7079e14f1d0afa2a3c6",
+    "bytes": 272317
   },
-  "signature": "UfznPgu8dpjgG2iuf8FdZ1nEAaxAzJVhXlA+gjeoIHOUtP1qVnPuUyU8CtbnhsdxkurwyCVpVhuovb1oBLIRCQ=="
+  "signature": "NslI1e2HecDyCo95XbtX8+wzm2xDpQ7jBnwV9NFQDEPdJGu+n1wTL7tjL3z9pbd8maCTt4CLz3bz49AbDB6bCA=="
 }
