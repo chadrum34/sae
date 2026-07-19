@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-instance-ownership-repair-20260719-02",
-  "displayName": "端末DB表示復旧・起動先自動切替修正",
-  "publishedAt": "2026-07-19T02:15:33.5296943Z",
+  "updateId": "browser-manual-invite-3digit-sequence-20260719-01",
+  "displayName": "親・招待相手自由入力・名前連番3桁対応",
+  "publishedAt": "2026-07-19T09:18:45.2240960Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-instance-ownership-repair-20260719-02.zip",
-    "sha256": "6a13f5795151bfdee1d738a9a1792664e3ca671901f688eaebc3189407b9c078",
-    "bytes": 254300
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-manual-invite-3digit-sequence-20260719-01.zip",
+    "sha256": "d1a9d9b3f0459a04cfda84ae55ac47e94949cbc9f694134a1fcd2f41fc52524d",
+    "bytes": 254904
   },
-  "signature": "Smp3dLqhJ88rIoQP0fOt5oPoQxRltdqwtwgS+IRjlVBUQbDU6QtwOrZw4Kvz+BSCjSnoSxg2t2ZLteH63qy0AQ=="
+  "signature": "GRLYH7iT2koPwMIBCVvXmPzXnVubHwkmMBT+QHXb8xDTSJMHfNVRmGvHRfekwCL1MiE4mWG0bMOnMbv3VN8vBw=="
 }
