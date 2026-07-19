@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-offline-number-sync-20260720-04",
-  "displayName": "XiaoWei number sync for disconnected devices",
-  "publishedAt": "2026-07-19T21:10:21.9521350Z",
+  "updateId": "browser-xiaowei-offline-number-sync-duplicate-fix-20260720-05",
+  "displayName": "XiaoWei offline number sync duplicate DB fix",
+  "publishedAt": "2026-07-19T23:11:03.2205932Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-offline-number-sync-20260720-04.zip",
-    "sha256": "d498febd91ff69ca262b93a05d9edc891a4d794fc3847e414d85e6be4ccd9c8c",
-    "bytes": 288177
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-offline-number-sync-duplicate-fix-20260720-05.zip",
+    "sha256": "94ce95851fc5a8c81a00b0a67f5b4b8bd611f88bf363a2c3bdadc3f2bcaae744",
+    "bytes": 288346
   },
-  "signature": "fROOHSXUZk5yjkMG6f1IljRWPFfKzFWlQs5YqEc5x2ptA+PXyTgwEZr5bu7v2UU+teplfvBgaz3bcD5WHjvOCQ=="
+  "signature": "XME7j0A950cg0b5q/WPkwk6vYhd6HqZ/xVUYYWBYciwd30e7rbbv0XTG1POU8onJkqCdsqmDHPSG1BuHxOekDg=="
 }
