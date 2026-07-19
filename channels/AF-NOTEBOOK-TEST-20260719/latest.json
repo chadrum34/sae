@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updateId": "notebook-test-baseline-20260719-01",
+  "displayName": "Notebook test channel baseline",
+  "publishedAt": "2026-07-19T00:16:04.9592741Z",
+  "customerId": "AF-NOTEBOOK-TEST-20260719",
+  "packageId": "android-fleet-browser-notebook-test-v1",
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/notebook-test-baseline-20260719-01.zip",
+    "sha256": "06ffa6889ded1ece540d2fed085d0a17208f669e49e33ff8d5e9b2e351c57293",
+    "bytes": 9623
+  },
+  "signature": "TkCCQZoufjB41k4SIW6dUx9ThypnukoDQha3XIsDSkzDW+e6FXMDsFvEEqUSbC0dhhQbZdAWh+2Y7uWLfUCJAA=="
+}
