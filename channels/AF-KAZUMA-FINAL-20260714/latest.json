@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-offline-device-db-20260719-01",
-  "displayName": "Offline device DB manual operations",
-  "publishedAt": "2026-07-19T12:29:25.0292565Z",
+  "updateId": "browser-model-order-resequence-20260719-01",
+  "displayName": "Model order resequence and offline DB edit",
+  "publishedAt": "2026-07-19T13:58:07.7007529Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-offline-device-db-20260719-01.zip",
-    "sha256": "84b2d3aa34fa2f04f6c3099e760c953c0c0932ad810a2e920c358e3dd0e82301",
-    "bytes": 268681
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-model-order-resequence-20260719-01.zip",
+    "sha256": "2ad22c2a3a21c5284e932942dcfd0a19b015218b7752625b097465ff1542eab1",
+    "bytes": 272744
   },
-  "signature": "vZcWPwVO0uckCC1oCRG9HJtvqi/6Tpu5a6JBsTeiUmE9h/UosFAE7Ol/elnjVrW+fnxdZBAJuPJP/65Hzbk4Bg=="
+  "signature": "em5vhYjA7Z0wgsIcg9NqiXBqyqCAUvH5HuaDT2mmSHhmyrJ7TKqxm3VLXEYupyd1xQ1b4IMtX9qSmUGJyH4FAw=="
 }
