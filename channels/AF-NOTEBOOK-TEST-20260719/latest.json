@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-number-cache-persistence-20260720-07",
-  "displayName": "XiaoWei offline number cache persistence",
-  "publishedAt": "2026-07-20T01:13:46.6993685Z",
+  "updateId": "browser-invite-landing-wait-20260720-08",
+  "displayName": "Invite landing button delayed-load wait",
+  "publishedAt": "2026-07-20T04:35:30.7244050Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-number-cache-persistence-20260720-07.zip",
-    "sha256": "46656c3e45f3d0f64a9be71f3689155ef5b9291299a7f0660a42505088ae6eb2",
-    "bytes": 221225
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-invite-landing-wait-20260720-08.zip",
+    "sha256": "c68c86f791f916d0c7abac864a429aeb68b43315de3b1432a431391995c663c1",
+    "bytes": 46518
   },
-  "signature": "VtjX7eojt2ChkkhVEzGAbFpX/EpdGv9944kM/Ij9r8cqFgGVMclSfV90B0QSGjbLxNMyh3EmX9Aed+heq54GDA=="
+  "signature": "HzlQ0qmIi7FKokLK92zIB9jZpb265Nwy1WnxTJlgu7EBW6aFpybF8A/UEJs/5DSXq8h70AAKR9TUCaZ5qEJnAQ=="
 }
