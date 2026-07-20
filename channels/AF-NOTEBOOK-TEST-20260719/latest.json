@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-mobile-overview-standard-https-20260720-10",
-  "displayName": "共通機能統合・スマホ全体表示・標準HTTPS",
-  "publishedAt": "2026-07-20T08:31:48.4411814Z",
+  "updateId": "browser-mobile-overview-standard-https-20260720-11",
+  "displayName": "共通機能統合・スマホ全体表示・標準HTTPS確定",
+  "publishedAt": "2026-07-20T08:41:20.0078668Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-mobile-overview-standard-https-20260720-10.zip",
-    "sha256": "2f9d89733b4e5a71c27dd68e1eef9395303188a8fa3b514bc438b6183cf7592d",
-    "bytes": 344326
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-mobile-overview-standard-https-20260720-11.zip",
+    "sha256": "c4d44f143c98ff8f34ce05296924b8e394bb1b87b8adfb1e5bbf781d6943f06d",
+    "bytes": 344391
   },
-  "signature": "NOQ2C0l2wVnz4nOA9ZhArjedTYfeiuns4qcwkRo1JxWrUSmILp6rLOuyy2nMhDdE7rOyTMCYDS3F49a5bdSBAg=="
+  "signature": "AFfoJ4Yrfkmw7yrEFU3cL6d5zCaMZ/h0pVCiDqvMZC10teYXupRx+1JoogYd5m/Er7uvDGnOM0OAVudP6V3NAA=="
 }
