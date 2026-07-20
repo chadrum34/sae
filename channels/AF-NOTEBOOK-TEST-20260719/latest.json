@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-unified-feature-set-20260720-09",
-  "displayName": "共通機能統合・招待待機・安全リセット",
-  "publishedAt": "2026-07-20T05:41:06.7214943Z",
+  "updateId": "browser-mobile-overview-standard-https-20260720-10",
+  "displayName": "共通機能統合・スマホ全体表示・標準HTTPS",
+  "publishedAt": "2026-07-20T08:31:48.4411814Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-unified-feature-set-20260720-09.zip",
-    "sha256": "9a84cc2bbbe34bc6b65558927132f71f2c4f35be8e348a61eeebbfc064d20876",
-    "bytes": 344192
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-mobile-overview-standard-https-20260720-10.zip",
+    "sha256": "2f9d89733b4e5a71c27dd68e1eef9395303188a8fa3b514bc438b6183cf7592d",
+    "bytes": 344326
   },
-  "signature": "hKCX5rJnoaw85O1Nh4UbkkwOnbTZSdwJyJFphwmE/+sKf+7grMUa94h5U7C6Wj88M9T2whIb2ncKW8g5w09kBg=="
+  "signature": "NOQ2C0l2wVnz4nOA9ZhArjedTYfeiuns4qcwkRo1JxWrUSmILp6rLOuyy2nMhDdE7rOyTMCYDS3F49a5bdSBAg=="
 }
