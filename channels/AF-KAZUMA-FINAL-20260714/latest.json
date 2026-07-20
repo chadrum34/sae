@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-offline-number-sync-duplicate-fix-20260720-06",
-  "displayName": "XiaoWei offline number sync duplicate DB fix",
-  "publishedAt": "2026-07-19T23:45:35.9583509Z",
+  "updateId": "browser-xiaowei-number-cache-persistence-20260720-07",
+  "displayName": "XiaoWei offline number cache persistence",
+  "publishedAt": "2026-07-20T02:45:22.4047770Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-xiaowei-offline-number-sync-duplicate-fix-20260720-06.zip",
-    "sha256": "c531d7542cd6e74bd1c41d42d9b789e27185e6f0461a6f56193c6d2ee3aa3778",
-    "bytes": 288570
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-xiaowei-number-cache-persistence-20260720-07.zip",
+    "sha256": "89dd9b7030e9b290651c9d2da48f269ff2aa56f421c49f992835a030cb3f588a",
+    "bytes": 221327
   },
-  "signature": "2/LyT3C7ByDYduKyBVCSag9HrAXc2QulVvwRcF2o8al6DeWHfd1By6bn1Y17U3QOBP/ru6BgLahPwxjASzzzBQ=="
+  "signature": "iodTMXg9zupzr2lhSGg4JXtQ2JSXqBjKYLw+WwkylXnjuK3TwS9IuYIo5bMrFUO7aP3AfoqcVGgUktqezxOMCw=="
 }
