@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-invite-landing-wait-20260720-08",
-  "displayName": "Invite landing button delayed-load wait",
-  "publishedAt": "2026-07-20T04:35:30.7244050Z",
+  "updateId": "browser-unified-feature-set-20260720-09",
+  "displayName": "共通機能統合・招待待機・安全リセット",
+  "publishedAt": "2026-07-20T05:41:06.7214943Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-invite-landing-wait-20260720-08.zip",
-    "sha256": "c68c86f791f916d0c7abac864a429aeb68b43315de3b1432a431391995c663c1",
-    "bytes": 46518
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-unified-feature-set-20260720-09.zip",
+    "sha256": "9a84cc2bbbe34bc6b65558927132f71f2c4f35be8e348a61eeebbfc064d20876",
+    "bytes": 344192
   },
-  "signature": "HzlQ0qmIi7FKokLK92zIB9jZpb265Nwy1WnxTJlgu7EBW6aFpybF8A/UEJs/5DSXq8h70AAKR9TUCaZ5qEJnAQ=="
+  "signature": "hKCX5rJnoaw85O1Nh4UbkkwOnbTZSdwJyJFphwmE/+sKf+7grMUa94h5U7C6Wj88M9T2whIb2ncKW8g5w09kBg=="
 }
