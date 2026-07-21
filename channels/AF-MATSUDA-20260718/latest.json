@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "xiaowei-name-sequence-20260718-02",
-  "displayName": "XiaoWei名連番編集・更新確認修正",
-  "publishedAt": "2026-07-18T15:12:16.2317950Z",
+  "updateId": "browser-ttl-extra-viewing-1190-20260721-17",
+  "displayName": "TTL追加視聴1,190円・アプリ保存画面改善・標準HTTPS",
+  "publishedAt": "2026-07-21T15:11:59.2507855Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/xiaowei-name-sequence-20260718-02.zip",
-    "sha256": "4453a68b1ad9804d4f0003141cb5e9ec801f916f280247efb29b91840fbb99e3",
-    "bytes": 247993
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-ttl-extra-viewing-1190-20260721-17.zip",
+    "sha256": "365e86b13fb89fc68f506c1d082fdc207904da52cb227dc11401313b1c046579",
+    "bytes": 355216
   },
-  "signature": "T+sRO0+yD9+/CEyrMrwUvPA66+iEaWlto8jn9jGdnv0eoyOl2VV+Jd+yD3T1dZgSihFBd/LZfxn88cBSbdSVAw=="
+  "signature": "iuzIuTrSvPFk6b5zJNWzfH5aCj/dpINnm41fXMj4Rc7RbPhBkGN65JPb1UYKaqcRKAnb8YRMUsT/FCPgk+hIBQ=="
 }

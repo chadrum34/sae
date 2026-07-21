@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-number-cache-persistence-20260720-07",
-  "displayName": "XiaoWei offline number cache persistence",
-  "publishedAt": "2026-07-20T02:45:22.4047770Z",
+  "updateId": "browser-ttl-extra-viewing-1190-20260721-16",
+  "displayName": "TTL追加視聴1,190円・アプリ保存画面改善・標準HTTPS",
+  "publishedAt": "2026-07-21T15:11:58.5735251Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-xiaowei-number-cache-persistence-20260720-07.zip",
-    "sha256": "89dd9b7030e9b290651c9d2da48f269ff2aa56f421c49f992835a030cb3f588a",
-    "bytes": 221327
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-ttl-extra-viewing-1190-20260721-16.zip",
+    "sha256": "16c4fa426cb3498a8c079c62fdbf313ba99a8180ac891dfd699d671aa7299535",
+    "bytes": 355225
   },
-  "signature": "iodTMXg9zupzr2lhSGg4JXtQ2JSXqBjKYLw+WwkylXnjuK3TwS9IuYIo5bMrFUO7aP3AfoqcVGgUktqezxOMCw=="
+  "signature": "oflkZ1IPmq+BIlzsBZDTNsYG4AtmCCcjatwm7lQ3vgPmvYWOoT6bOsDz3IxD3ZN9/moNP/DHPmPwlvu92ALgAQ=="
 }
