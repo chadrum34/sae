@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-app-extract-picker-standard-https-20260721-12",
-  "displayName": "アプリ保存画面改善・標準HTTPS確定・共通機能統合",
-  "publishedAt": "2026-07-21T13:12:35.9873077Z",
+  "updateId": "browser-ttl-extra-viewing-1190-20260721-15",
+  "displayName": "TTL追加視聴1,190円・アプリ保存画面改善・標準HTTPS",
+  "publishedAt": "2026-07-21T14:17:56.6576252Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-app-extract-picker-standard-https-20260721-12.zip",
-    "sha256": "4614268fadf1d0a8e56cfd3108164734ee49dcfd51b7ede660cc0cec1e216630",
-    "bytes": 348628
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-ttl-extra-viewing-1190-20260721-15.zip",
+    "sha256": "26f073d7db4ac247f930a5b18c398120c18cbab6c9fe367c0a7396893879b072",
+    "bytes": 355419
   },
-  "signature": "Mr32BbbScaivYaQaHpIourcqFkBpDSrphIla0aKaGOJzaunbkEsXmRikuXGYNuWBZ1G610vHANXwQp/5qjC0Aw=="
+  "signature": "1B6icwkxlAoG5+jCouF4AFePj/TN1hk/b2DF/FXqE557/wsYz8ou3Ii/EpL8bjIkIMKHOruJCQ29qfefPJeOAQ=="
 }
