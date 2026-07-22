@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-app-labels-apkm-install-20260722-22",
-  "displayName": "端末アプリ名の正式表示・APKM安全再導入",
-  "publishedAt": "2026-07-22T08:48:38.5133051Z",
+  "updateId": "browser-device-app-labels-apkm-privacy-20260722-23",
+  "displayName": "端末アプリ正式名・APKM再導入・抽出ログ匿名化",
+  "publishedAt": "2026-07-22T12:00:00.1260010Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-app-labels-apkm-install-20260722-22.zip",
-    "sha256": "2e727fb2e730013649682372535709a29796f45e1d72fe4c44dc5b6e26c93afb",
-    "bytes": 364641
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-app-labels-apkm-privacy-20260722-23.zip",
+    "sha256": "5807fba4c5f449da514f67dc97abd4c33288c11a60984b316a3ee509ded82543",
+    "bytes": 364906
   },
-  "signature": "Ahjz6SmQ/sw9v1Gb9MbrgFthmoevGCG7dHMXANnlfi8FVpWFw37EvGD4PRGgtj3WMZB9W810rZTpS6NjQV8XBg=="
+  "signature": "V1NXZKQAx/zt6L4pJlR7XMMaedjt5yqBYh8ZjpgIn+Ii0/CsB8TRGcu+Wj/6KsmqpghZH2azfmR5+jWvCChgBA=="
 }
