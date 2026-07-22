@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-app-labels-apkm-single-flight-20260722-24",
-  "displayName": "端末アプリ正式名・APKM再導入・重複実行防止",
-  "publishedAt": "2026-07-22T13:01:39.0596182Z",
+  "updateId": "browser-tag-board-number-search-20260723-27",
+  "displayName": "チェック一覧の端末番号検索",
+  "publishedAt": "2026-07-22T23:42:21.5266378Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-app-labels-apkm-single-flight-20260722-24.zip",
-    "sha256": "8733dfcfc6cf6095fa98264c8a7fabeb82e0d6ffc4b65b6746a0a7fd28ca26a6",
-    "bytes": 366164
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-tag-board-number-search-20260723-27.zip",
+    "sha256": "e29a742cf1e1b837cbb01d6083b78876660f4e5ecb5f3114808c967c24e32d22",
+    "bytes": 32080
   },
-  "signature": "2qRsxfy5ycxo+9Yhnx2iRTqv94dIJ1J4SucMsmTrTO5/srHG8+OQJ1Qb8rOfoc7IMzt+wb9e1Vym3OAKVILkBw=="
+  "signature": "clh7q8uUTMDuVcZPyneJDeccluAYOgAF/V98kPQVvRllYJyyV9BGY5m4/G1y+he/ZGdoPOo8t15YOSN0fKvQCA=="
 }
