@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-ttl-extra-viewing-1190-20260721-15",
-  "displayName": "TTL追加視聴1,190円・アプリ保存画面改善・標準HTTPS",
-  "publishedAt": "2026-07-21T14:17:56.6576252Z",
+  "updateId": "browser-update-preflight-diagnostics-20260722-18",
+  "displayName": "更新診断一括表示・ロールバック検証強化",
+  "publishedAt": "2026-07-22T02:33:50.1885255Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-ttl-extra-viewing-1190-20260721-15.zip",
-    "sha256": "26f073d7db4ac247f930a5b18c398120c18cbab6c9fe367c0a7396893879b072",
-    "bytes": 355419
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-update-preflight-diagnostics-20260722-18.zip",
+    "sha256": "91921a3cc2fda14d70caa448fb518c894461c26fbef0f1bf21d678cc102f0747",
+    "bytes": 358381
   },
-  "signature": "1B6icwkxlAoG5+jCouF4AFePj/TN1hk/b2DF/FXqE557/wsYz8ou3Ii/EpL8bjIkIMKHOruJCQ29qfefPJeOAQ=="
+  "signature": "5J00yRl6caXkNTR0N55/0Le9jIUMs0493h/9D16RMsofB3GTNi6TPmr94C/SORGGXHjHeL8xavTwOHs6DtNtCw=="
 }
