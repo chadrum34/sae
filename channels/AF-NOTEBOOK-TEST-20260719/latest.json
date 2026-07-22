@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-update-preflight-diagnostics-20260722-18",
-  "displayName": "更新診断一括表示・ロールバック検証強化",
-  "publishedAt": "2026-07-22T02:33:50.1885255Z",
+  "updateId": "browser-device-app-labels-apkm-install-20260722-22",
+  "displayName": "端末アプリ名の正式表示・APKM安全再導入",
+  "publishedAt": "2026-07-22T08:48:38.5133051Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-update-preflight-diagnostics-20260722-18.zip",
-    "sha256": "91921a3cc2fda14d70caa448fb518c894461c26fbef0f1bf21d678cc102f0747",
-    "bytes": 358381
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-app-labels-apkm-install-20260722-22.zip",
+    "sha256": "2e727fb2e730013649682372535709a29796f45e1d72fe4c44dc5b6e26c93afb",
+    "bytes": 364641
   },
-  "signature": "5J00yRl6caXkNTR0N55/0Le9jIUMs0493h/9D16RMsofB3GTNi6TPmr94C/SORGGXHjHeL8xavTwOHs6DtNtCw=="
+  "signature": "Ahjz6SmQ/sw9v1Gb9MbrgFthmoevGCG7dHMXANnlfi8FVpWFw37EvGD4PRGgtj3WMZB9W810rZTpS6NjQV8XBg=="
 }
