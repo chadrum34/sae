@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-update-preflight-diagnostics-20260722-19",
-  "displayName": "更新診断一括表示・ロールバック検証強化",
-  "publishedAt": "2026-07-22T04:37:47.6502742Z",
+  "updateId": "browser-update-preflight-diagnostics-20260722-21",
+  "displayName": "更新診断一括表示・ロールバック検証強化・Kazuma旧版互換",
+  "publishedAt": "2026-07-22T07:18:13.3111922Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-update-preflight-diagnostics-20260722-19.zip",
-    "sha256": "c43a045b8d1b4f271ab140c191a19a0fc739d77b6710ff4bc1e364cc27dafa0a",
-    "bytes": 358227
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-update-preflight-diagnostics-20260722-21.zip",
+    "sha256": "55d1460d7baf784840a0125f6d7a82d3394c72319b85f0bce25ad117a1ff220b",
+    "bytes": 358309
   },
-  "signature": "/NvxMyjmr6pz7s8jyMXyLMSiNyOmhH9ssiZXSnRZmp8djF+yntS0bnEHrOcMSAHD/7MStWZgjIykQFH/xiF5Ag=="
+  "signature": "EFyWvpy/CiiM0i0KWqWayNJ6nnmGBaJHQlIbN2mpVZA+cSgVXFSYG8iuIAw+JGms3KpnOHT/MqAq3t9oQU05DQ=="
 }
