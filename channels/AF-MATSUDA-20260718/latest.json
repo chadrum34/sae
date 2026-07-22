@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-ttl-extra-viewing-1190-20260721-17",
-  "displayName": "TTL追加視聴1,190円・アプリ保存画面改善・標準HTTPS",
-  "publishedAt": "2026-07-21T15:11:59.2507855Z",
+  "updateId": "browser-update-preflight-diagnostics-20260722-20",
+  "displayName": "更新診断一括表示・ロールバック検証強化",
+  "publishedAt": "2026-07-22T04:37:48.0219261Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-ttl-extra-viewing-1190-20260721-17.zip",
-    "sha256": "365e86b13fb89fc68f506c1d082fdc207904da52cb227dc11401313b1c046579",
-    "bytes": 355216
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-update-preflight-diagnostics-20260722-20.zip",
+    "sha256": "3b5f93c5e89094b3a3e07fc51dfcdeeed1cf49d3fa1160540d315efebbc4888c",
+    "bytes": 358177
   },
-  "signature": "iuzIuTrSvPFk6b5zJNWzfH5aCj/dpINnm41fXMj4Rc7RbPhBkGN65JPb1UYKaqcRKAnb8YRMUsT/FCPgk+hIBQ=="
+  "signature": "uOantQ5DOOJkY43iqCm+kse+V3kRDYvkJ4qm6zGGCJC2cm+nWs5ybJYL65wRZ9TBrVT8P3tLJUiGf/+xXJmJAQ=="
 }
