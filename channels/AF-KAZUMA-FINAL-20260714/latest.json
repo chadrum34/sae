@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-app-labels-apkm-single-flight-20260722-25",
-  "displayName": "端末アプリ正式名・APKM再導入・重複実行防止",
-  "publishedAt": "2026-07-22T21:44:20.3692740Z",
+  "updateId": "browser-tag-board-enter-scroll-20260723-29",
+  "displayName": "チェック一覧の端末番号検索・Enter移動修正",
+  "publishedAt": "2026-07-23T06:03:56.6282035Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-device-app-labels-apkm-single-flight-20260722-25.zip",
-    "sha256": "95952c9601933da29a2003a343f3ea524d4c0e9656691c01ca0bd1f4254804e5",
-    "bytes": 366175
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-tag-board-enter-scroll-20260723-29.zip",
+    "sha256": "29aaa4ff9adb16659442ae351309ee6fbba5984aa38fd127bdcd60fbd2294052",
+    "bytes": 367912
   },
-  "signature": "0pYy5m9k6frrSGEEL7TabVbwcXKZG4hCxbVoFxKvcNeRq5cIKNdezU+2YU+RcYyu9k+S6ZfuNHnb+B67uaWSCw=="
+  "signature": "TIIhgVfjGZAdIpMu+miJP2eGc726VJ5XrWWwtGFx0w5KVZmK6ezipRjrJKwc5uv/JqHu+2dcfywogqwrT5eQDg=="
 }
