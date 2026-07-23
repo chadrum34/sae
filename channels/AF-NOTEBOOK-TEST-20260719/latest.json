@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tag-board-enter-scroll-20260723-28",
-  "displayName": "チェック一覧の端末番号検索・Enter移動修正",
-  "publishedAt": "2026-07-23T04:26:19.0057923Z",
+  "updateId": "browser-sim-phone-navigation-20260723-31",
+  "displayName": "SIM・電話番号一覧・ナビボタン配置",
+  "publishedAt": "2026-07-23T06:48:54.2940958Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-tag-board-enter-scroll-20260723-28.zip",
-    "sha256": "d338c5c0eddc0fb299633ed0f94a2cc9e71a049e6a8a63dddf1028da411c4eec",
-    "bytes": 32150
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-sim-phone-navigation-20260723-31.zip",
+    "sha256": "82b0d54317b56a08f48636548dac882f9daa79f27ffdf827070b944806063d08",
+    "bytes": 278666
   },
-  "signature": "xFIbI9AOMYlj0TbO5Y2YnOubRRPdyESvvc3mPhyjIAnZyUQLnlCk/FrdpJVBf9QJCM8zWOWCTfBg/nvbr/ZiBw=="
+  "signature": "CEO+irxjeG/sjJFoP//XhhB+VYEmPMpBLwQJr3XVY5h9igzuzmjFdJiVAJ0QNMQTqh/DwZlkG1F9rMC5MAqIBA=="
 }
