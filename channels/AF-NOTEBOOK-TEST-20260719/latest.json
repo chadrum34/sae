@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-navigation-effective-layout-bulk-20260723-33",
-  "displayName": "ナビ実効配置判定・対応全端末一括再適用",
-  "publishedAt": "2026-07-23T10:30:38.7707534Z",
+  "updateId": "browser-navigation-probe-rollback-cumulative-20260723-35",
+  "displayName": "ナビADB取得完全性・rollback全件検証・累積修復",
+  "publishedAt": "2026-07-23T12:59:33.2080434Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-navigation-effective-layout-bulk-20260723-33.zip",
-    "sha256": "7fdb5e1e7fa7c4dbed73471ebfd9137902f07aa566eb61cb196f0ef84b355601",
-    "bytes": 283130
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-navigation-probe-rollback-cumulative-20260723-35.zip",
+    "sha256": "b3360a110b026d88e353fcbef00c3c022d6f02acb433739f2b5741eb6f43fa74",
+    "bytes": 387203
   },
-  "signature": "Z7L27cO5NI9hGhzu6CBKAKgbdHR7Jzz0DMb94Z62Jj3v5nKSi55RIwev49W6yJ3xrsEJzNtSc3Tvcn7bQlUaDg=="
+  "signature": "KPBvihz8PwW9aVOPLbpny2VOT3CCdrtOrHw0yZqVRTkY20AlSi0PnwMf1HoNWDTwckl8LEhQZNL7CC1xf/AECw=="
 }
