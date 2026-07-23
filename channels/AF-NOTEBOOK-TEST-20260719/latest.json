@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-sim-phone-navigation-20260723-31",
-  "displayName": "SIM・電話番号一覧・ナビボタン配置",
-  "publishedAt": "2026-07-23T06:48:54.2940958Z",
+  "updateId": "browser-device-sim-navigation-safety-20260723-32",
+  "displayName": "端末SIM常設表示・電話番号撤去・ナビ安全修正",
+  "publishedAt": "2026-07-23T09:40:04.7471453Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-sim-phone-navigation-20260723-31.zip",
-    "sha256": "82b0d54317b56a08f48636548dac882f9daa79f27ffdf827070b944806063d08",
-    "bytes": 278666
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-sim-navigation-safety-20260723-32.zip",
+    "sha256": "b52a7fc18998540982c8bf853c60811d5c0bc744fba3e8d96f2d70f1139a00fc",
+    "bytes": 279569
   },
-  "signature": "CEO+irxjeG/sjJFoP//XhhB+VYEmPMpBLwQJr3XVY5h9igzuzmjFdJiVAJ0QNMQTqh/DwZlkG1F9rMC5MAqIBA=="
+  "signature": "5314QmJQEMC+Z3OC0qiz3G7ttAgnyMs0D3m7WkXnR02XMFgbWEWJG9B/FbFxgETsjAhEoAlThcrNlULfn59nCA=="
 }
