@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tag-board-number-search-20260723-27",
-  "displayName": "チェック一覧の端末番号検索",
-  "publishedAt": "2026-07-22T23:42:21.5266378Z",
+  "updateId": "browser-tag-board-enter-scroll-20260723-28",
+  "displayName": "チェック一覧の端末番号検索・Enter移動修正",
+  "publishedAt": "2026-07-23T04:26:19.0057923Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-tag-board-number-search-20260723-27.zip",
-    "sha256": "e29a742cf1e1b837cbb01d6083b78876660f4e5ecb5f3114808c967c24e32d22",
-    "bytes": 32080
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-tag-board-enter-scroll-20260723-28.zip",
+    "sha256": "d338c5c0eddc0fb299633ed0f94a2cc9e71a049e6a8a63dddf1028da411c4eec",
+    "bytes": 32150
   },
-  "signature": "clh7q8uUTMDuVcZPyneJDeccluAYOgAF/V98kPQVvRllYJyyV9BGY5m4/G1y+he/ZGdoPOo8t15YOSN0fKvQCA=="
+  "signature": "xFIbI9AOMYlj0TbO5Y2YnOubRRPdyESvvc3mPhyjIAnZyUQLnlCk/FrdpJVBf9QJCM8zWOWCTfBg/nvbr/ZiBw=="
 }
