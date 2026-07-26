@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tag-board-enter-scroll-20260723-29",
-  "displayName": "チェック一覧の端末番号検索・Enter移動修正",
-  "publishedAt": "2026-07-23T06:03:56.6282035Z",
+  "updateId": "browser-checkin-amount-inactive-reset-20260726-37",
+  "displayName": "チェックイン任意額・複数端末非稼働確認",
+  "publishedAt": "2026-07-26T03:36:51.6037319Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-tag-board-enter-scroll-20260723-29.zip",
-    "sha256": "29aaa4ff9adb16659442ae351309ee6fbba5984aa38fd127bdcd60fbd2294052",
-    "bytes": 367912
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-checkin-amount-inactive-reset-20260726-37.zip",
+    "sha256": "1ae0dcb68ca41fb79176a3efdce7eb78e4472d3af7234c3c66e81f48c47fda01",
+    "bytes": 398149
   },
-  "signature": "TIIhgVfjGZAdIpMu+miJP2eGc726VJ5XrWWwtGFx0w5KVZmK6ezipRjrJKwc5uv/JqHu+2dcfywogqwrT5eQDg=="
+  "signature": "cbWNuQe2qkUikgCUjZfIu/7Q4DSvpPl54A9z3KNl0Db7VRUPToRezHgoB0suAiYt90J+CUWBPvUfDt/R4yuMDA=="
 }
