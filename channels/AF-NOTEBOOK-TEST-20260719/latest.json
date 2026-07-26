@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-navigation-probe-rollback-cumulative-20260723-35",
-  "displayName": "ナビADB取得完全性・rollback全件検証・累積修復",
-  "publishedAt": "2026-07-23T12:59:33.2080434Z",
+  "updateId": "browser-checkin-amount-inactive-reset-20260726-36",
+  "displayName": "チェックイン任意額・複数端末非稼働確認",
+  "publishedAt": "2026-07-26T02:24:56.4504152Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-navigation-probe-rollback-cumulative-20260723-35.zip",
-    "sha256": "b3360a110b026d88e353fcbef00c3c022d6f02acb433739f2b5741eb6f43fa74",
-    "bytes": 387203
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-checkin-amount-inactive-reset-20260726-36.zip",
+    "sha256": "5678fb9bf589ee29414697c8ef5b358f5111b0d104a2b232813b40bc28ad7764",
+    "bytes": 277134
   },
-  "signature": "KPBvihz8PwW9aVOPLbpny2VOT3CCdrtOrHw0yZqVRTkY20AlSi0PnwMf1HoNWDTwckl8LEhQZNL7CC1xf/AECw=="
+  "signature": "nQjocDDN5QTLSBPCaJFKww+89yiDYM4BO3lsHr375HEQm3Tk3KlETZIYQiSsPOeUHz/AcUGrsFfLdzLfdqqaCg=="
 }
