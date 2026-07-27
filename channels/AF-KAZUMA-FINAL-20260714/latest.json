@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-invite-profiles-device-setup-20260728-40",
-  "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
-  "publishedAt": "2026-07-27T21:41:23.9803856Z",
+  "updateId": "browser-device-db-order-restore-20260728-44",
+  "displayName": "DB入力欄の並びを復元",
+  "publishedAt": "2026-07-27T23:00:44.8671597Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-invite-profiles-device-setup-20260728-40.zip",
-    "sha256": "7fe01dcc8d703e497349f3ba0ca27d38242c4cbaf9567a60ba13812ee2184ddb",
-    "bytes": 353863
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-device-db-order-restore-20260728-44.zip",
+    "sha256": "12366e11d50fa1f19e95ad6bab00f04743dad6cafdbd3cfe111d6d409855851f",
+    "bytes": 354138
   },
-  "signature": "Ai56Mv6iy6I/O/loQhihi/cPbNlwvqA7eatrUOD7HFSji55dIyzzfMXl3u8jcGgh09wInrzU4Yqv4HXSiPNgBw=="
+  "signature": "gzmOBaMNY6wV2OYq7La4ham04cCOMku+nbn+q5r4LyyEb8qoN9Vs8IZ5UkCD8FJp5bKUoHIT6NMHAfqJV0ssBw=="
 }

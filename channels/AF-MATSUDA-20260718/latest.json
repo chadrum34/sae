@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-invite-profiles-device-setup-20260728-41",
-  "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
-  "publishedAt": "2026-07-27T21:41:24.5940774Z",
+  "updateId": "browser-device-db-order-restore-20260728-45",
+  "displayName": "DB入力欄の並びを復元",
+  "publishedAt": "2026-07-27T23:00:45.4904379Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-invite-profiles-device-setup-20260728-41.zip",
-    "sha256": "72063dd0cdba61b5179a599ba7a56f9f431447065bfff5d669f0c47bbc8bbf66",
-    "bytes": 353478
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-device-db-order-restore-20260728-45.zip",
+    "sha256": "e6f55cf16ee709ab61e038fb41153a5fb87f6438dbfad33f9125ec05c55f8cb4",
+    "bytes": 353760
   },
-  "signature": "Rw2/ecBB7RckbsG9v33adGxK82W+bLhZXebXwCUEQ/Its4hf/zNGhtgK6Ouvidcq4NQeYVVgP9VIWHgaMOz4AQ=="
+  "signature": "sqsR5uvVbOpBMFyyIwJvkVzZDpWEuFP6wZoqCKymAqFkTRfEgFssDLDIbLm2FfpVyIb4hKTPMWIM3sj6w+6GBw=="
 }
