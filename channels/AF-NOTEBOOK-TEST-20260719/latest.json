@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-checkin-amount-inactive-reset-20260726-36",
-  "displayName": "チェックイン任意額・複数端末非稼働確認",
-  "publishedAt": "2026-07-26T02:24:56.4504152Z",
+  "updateId": "browser-invite-profiles-device-setup-20260728-39",
+  "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
+  "publishedAt": "2026-07-27T18:03:49.2621019Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-checkin-amount-inactive-reset-20260726-36.zip",
-    "sha256": "5678fb9bf589ee29414697c8ef5b358f5111b0d104a2b232813b40bc28ad7764",
-    "bytes": 277134
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-invite-profiles-device-setup-20260728-39.zip",
+    "sha256": "18d7cf4b17cfffaa9a02748ac10e82f342fb2e125a1abcc6163db8e12a3729af",
+    "bytes": 363263
   },
-  "signature": "nQjocDDN5QTLSBPCaJFKww+89yiDYM4BO3lsHr375HEQm3Tk3KlETZIYQiSsPOeUHz/AcUGrsFfLdzLfdqqaCg=="
+  "signature": "0IYyzEtsC0/p2mZZeH2PbljksKCHLDMoS3Ze7P2VCGRl7z5IVob+TCUOvSXOO6jYZtgL98Hx+7/CCcGCgAmFBQ=="
 }
