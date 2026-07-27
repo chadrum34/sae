@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-invite-analytics-20260726-38",
-  "displayName": "招待成功率・稼働時間分析",
-  "publishedAt": "2026-07-26T14:28:08.3460054Z",
+  "updateId": "browser-invite-profiles-device-setup-20260728-40",
+  "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
+  "publishedAt": "2026-07-27T21:41:23.9803856Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-invite-analytics-20260726-38.zip",
-    "sha256": "c91d414c3912983cf67578dd2c4cfa62b1addc538b6926f09945ab7c1c9970b7",
-    "bytes": 176732
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-invite-profiles-device-setup-20260728-40.zip",
+    "sha256": "7fe01dcc8d703e497349f3ba0ca27d38242c4cbaf9567a60ba13812ee2184ddb",
+    "bytes": 353863
   },
-  "signature": "s5qVxHeqhpigop44AzQajOXfE01WXik+M5jeQcPX9EppdaegpwEyxzLhR9hD64Qq3uz+9zEGqixaZ9z2dZDFCw=="
+  "signature": "Ai56Mv6iy6I/O/loQhihi/cPbNlwvqA7eatrUOD7HFSji55dIyzzfMXl3u8jcGgh09wInrzU4Yqv4HXSiPNgBw=="
 }

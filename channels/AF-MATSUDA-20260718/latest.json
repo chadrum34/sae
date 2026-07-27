@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tag-board-enter-scroll-20260723-30",
-  "displayName": "チェック一覧の端末番号検索・Enter移動修正",
-  "publishedAt": "2026-07-23T06:03:57.3080646Z",
+  "updateId": "browser-invite-profiles-device-setup-20260728-41",
+  "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
+  "publishedAt": "2026-07-27T21:41:24.5940774Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-tag-board-enter-scroll-20260723-30.zip",
-    "sha256": "b54f5ffd5277824c42d51817b856e22b8ed525346115d6450ef3943e02dc06e9",
-    "bytes": 367864
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-invite-profiles-device-setup-20260728-41.zip",
+    "sha256": "72063dd0cdba61b5179a599ba7a56f9f431447065bfff5d669f0c47bbc8bbf66",
+    "bytes": 353478
   },
-  "signature": "6jRVO5KpVp5Ky1Wj86D74V76xP7s6J9TlxQBkHw4vw+oBM+VuxmpQ6nPZtTAfINDCOhCKwSzEvAMUEOmu0x9Cg=="
+  "signature": "Rw2/ecBB7RckbsG9v33adGxK82W+bLhZXebXwCUEQ/Its4hf/zNGhtgK6Ouvidcq4NQeYVVgP9VIWHgaMOz4AQ=="
 }
