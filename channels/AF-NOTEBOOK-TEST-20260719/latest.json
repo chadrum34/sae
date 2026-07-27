@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-invite-profiles-device-setup-20260728-39",
+  "updateId": "browser-invite-profiles-device-setup-20260728-42",
   "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
-  "publishedAt": "2026-07-27T18:03:49.2621019Z",
+  "publishedAt": "2026-07-27T19:33:01.2283373Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-invite-profiles-device-setup-20260728-39.zip",
-    "sha256": "18d7cf4b17cfffaa9a02748ac10e82f342fb2e125a1abcc6163db8e12a3729af",
-    "bytes": 363263
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-invite-profiles-device-setup-20260728-42.zip",
+    "sha256": "e24e97aac0b5a90ffe32ac1f99daf2ebcc12a47a7669534c0201f461eeebd425",
+    "bytes": 363392
   },
-  "signature": "0IYyzEtsC0/p2mZZeH2PbljksKCHLDMoS3Ze7P2VCGRl7z5IVob+TCUOvSXOO6jYZtgL98Hx+7/CCcGCgAmFBQ=="
+  "signature": "EktGNJsVXczRP6X/pCHCafS8AMwW0BWBh5ZWCkDEe/A1ZFG3Nqswr3gKL1Nh7Gs6R2Y14vcs+E22TB//kXu0DA=="
 }
