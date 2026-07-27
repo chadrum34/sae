@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-invite-profiles-device-setup-20260728-42",
-  "displayName": "招待種別・本家切替・SIM情報・通知一括OFF",
-  "publishedAt": "2026-07-27T19:33:01.2283373Z",
+  "updateId": "browser-device-db-order-restore-20260728-43",
+  "displayName": "DB入力欄の並びを復元",
+  "publishedAt": "2026-07-27T23:00:44.2482058Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-invite-profiles-device-setup-20260728-42.zip",
-    "sha256": "e24e97aac0b5a90ffe32ac1f99daf2ebcc12a47a7669534c0201f461eeebd425",
-    "bytes": 363392
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-db-order-restore-20260728-43.zip",
+    "sha256": "e2a69219b746e6c6a2a11f20c2a1c84ff5ada64c2cb36766bcb62711157cda5b",
+    "bytes": 155242
   },
-  "signature": "EktGNJsVXczRP6X/pCHCafS8AMwW0BWBh5ZWCkDEe/A1ZFG3Nqswr3gKL1Nh7Gs6R2Y14vcs+E22TB//kXu0DA=="
+  "signature": "8vF9Q7R/MJMdzWW5jw7/zM2W/8FFJRRfV3iDBeIclDTuVnPa15krefc+O3eDXT2JcxeaeHeY2xnWFxUlb7CxCw=="
 }
