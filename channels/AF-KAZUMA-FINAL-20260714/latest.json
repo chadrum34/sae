@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-offline-invite-analytics-compact-20260728-47",
-  "displayName": "未接続DB招待分析・コンパクト表示",
-  "publishedAt": "2026-07-28T06:37:41.5534339Z",
+  "updateId": "browser-tailscale-standard-https-20260728-50",
+  "displayName": "Tailscale標準HTTPS・累積更新",
+  "publishedAt": "2026-07-28T07:00:34.6229757Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-offline-invite-analytics-compact-20260728-47.zip",
-    "sha256": "952369314e325d13be26802b1cf2dabd5dab97eaf95dd1c2d085e2be185bc83a",
-    "bytes": 359464
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-tailscale-standard-https-20260728-50.zip",
+    "sha256": "9fed9003e4746e7e2820f3aa7b02156394fca22e75a6fd5f3aca62fa53a2d222",
+    "bytes": 366600
   },
-  "signature": "gwxAm61nApSw0JjRfE44QQStRgo/otZ+e2prt3cOa1hImuCfDGy+MtEkHaP41oS4Z7Nd4K9+eTGBkVsg+nJXBg=="
+  "signature": "ntBzGIeOCEIgP5SGWYoGoX5D0j6m8QAe5zB+SfNjPVCm8/SWKHteEdLlV1Yu82G3DonRVguLpbzsD7/FXZphBg=="
 }
