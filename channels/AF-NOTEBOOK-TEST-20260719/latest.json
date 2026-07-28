@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-offline-invite-analytics-compact-20260728-46",
-  "displayName": "未接続DB招待分析・コンパクト表示",
-  "publishedAt": "2026-07-28T06:35:55.0097229Z",
+  "updateId": "browser-tailscale-remote-standard-20260728-49",
+  "displayName": "Tailscaleリモート接続の標準構成確認",
+  "publishedAt": "2026-07-28T06:47:04.4743049Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-offline-invite-analytics-compact-20260728-46.zip",
-    "sha256": "a55dc06778e3cb5111891a7f71b9d272f26a649135160f0d8b6bf63382e8b4f7",
-    "bytes": 297213
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-tailscale-remote-standard-20260728-49.zip",
+    "sha256": "249d808ba537538672b13999bb611fff40167926c70862b644370722bf3e0c1b",
+    "bytes": 20159
   },
-  "signature": "WsjvsOmK9Q+t3p7/n8/5OW84SNJ6O0oIJMIv/OdfFu8QwKVXNyObieEM+Pcxlsnp5OA82UGvAboXIyXrkSOJAQ=="
+  "signature": "W8SyHm/kfmsJjdqZN9Nr+cFg37xvLAo2S/RFWtGa1PP+8aBdPMWogWKQ2AxwA2a38F2RSqNKHzrA9T29YwOmBQ=="
 }
