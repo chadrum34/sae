@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-db-order-restore-20260728-45",
-  "displayName": "DB入力欄の並びを復元",
-  "publishedAt": "2026-07-27T23:00:45.4904379Z",
+  "updateId": "browser-offline-invite-analytics-compact-20260728-48",
+  "displayName": "未接続DB招待分析・コンパクト表示",
+  "publishedAt": "2026-07-28T06:37:42.4166596Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-device-db-order-restore-20260728-45.zip",
-    "sha256": "e6f55cf16ee709ab61e038fb41153a5fb87f6438dbfad33f9125ec05c55f8cb4",
-    "bytes": 353760
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-offline-invite-analytics-compact-20260728-48.zip",
+    "sha256": "af2e4efe80c0f19d50cb98652f08f4962b89983d671f726359cbc4cc7c9920f7",
+    "bytes": 359076
   },
-  "signature": "sqsR5uvVbOpBMFyyIwJvkVzZDpWEuFP6wZoqCKymAqFkTRfEgFssDLDIbLm2FfpVyIb4hKTPMWIM3sj6w+6GBw=="
+  "signature": "Fkfo696G6mf+Ur/tTyAvjYXfHGehYg1n7mH7W50Fp08cpLWhnLENNeI64/9eCojvwyX05QYYR8sJ25WPFNKUDA=="
 }
