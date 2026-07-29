@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tailscale-remote-standard-20260728-49",
-  "displayName": "Tailscaleリモート接続の標準構成確認",
-  "publishedAt": "2026-07-28T06:47:04.4743049Z",
+  "updateId": "browser-dense-checklist-day-sync-20260729-52",
+  "displayName": "高密度チェックリスト・作業日同期",
+  "publishedAt": "2026-07-29T03:10:16.9338168Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-tailscale-remote-standard-20260728-49.zip",
-    "sha256": "249d808ba537538672b13999bb611fff40167926c70862b644370722bf3e0c1b",
-    "bytes": 20159
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-dense-checklist-day-sync-20260729-52.zip",
+    "sha256": "0b9ae62c95bb92b922b0f3108496879232bab1b8e2579a8985bb695d5a397720",
+    "bytes": 175692
   },
-  "signature": "W8SyHm/kfmsJjdqZN9Nr+cFg37xvLAo2S/RFWtGa1PP+8aBdPMWogWKQ2AxwA2a38F2RSqNKHzrA9T29YwOmBQ=="
+  "signature": "j86GP20xDCShQIQg6MQMo6Sz/37+KHf0ki0F5XazPMJmAUuIjn1gL4yrkJqZNrfjnoAH9EDIwOQL/pmS9uI2Cw=="
 }
