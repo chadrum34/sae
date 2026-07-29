@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tailscale-standard-https-20260728-50",
-  "displayName": "Tailscale標準HTTPS・累積更新",
-  "publishedAt": "2026-07-28T07:00:34.6229757Z",
+  "updateId": "browser-dense-checklist-day-sync-20260729-53",
+  "displayName": "高密度チェックリスト・作業日同期",
+  "publishedAt": "2026-07-29T03:12:41.3099513Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-tailscale-standard-https-20260728-50.zip",
-    "sha256": "9fed9003e4746e7e2820f3aa7b02156394fca22e75a6fd5f3aca62fa53a2d222",
-    "bytes": 366600
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-dense-checklist-day-sync-20260729-53.zip",
+    "sha256": "e64f24b981b63c249e02576fd7bb2279504b4db7a2caa3c80da89162f99d9a90",
+    "bytes": 410206
   },
-  "signature": "ntBzGIeOCEIgP5SGWYoGoX5D0j6m8QAe5zB+SfNjPVCm8/SWKHteEdLlV1Yu82G3DonRVguLpbzsD7/FXZphBg=="
+  "signature": "9YLG7xkqY66qUwRvbLD+LNny+5Hni2WGZykVnZMxn8CrGkdFYLUGIPw9kKfnBtwz6yifU31UwdXR7gJyxL3yBA=="
 }

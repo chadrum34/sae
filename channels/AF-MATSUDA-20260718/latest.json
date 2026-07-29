@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-tailscale-standard-https-cumulative-20260728-51",
-  "displayName": "Tailscale標準HTTPS・累積更新",
-  "publishedAt": "2026-07-28T07:00:34.9309638Z",
+  "updateId": "browser-dense-checklist-day-sync-cumulative-20260729-54",
+  "displayName": "高密度チェックリスト・作業日同期",
+  "publishedAt": "2026-07-29T03:12:42.0522544Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-tailscale-standard-https-cumulative-20260728-51.zip",
-    "sha256": "ee173d8d4308c902f93184f0bd75e1cf1ba98372e09f7a5f0cebc5dc4ef866bc",
-    "bytes": 366133
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-dense-checklist-day-sync-cumulative-20260729-54.zip",
+    "sha256": "5df92d3e70bd31363de0b3b1dace5b4cd85f102c26df3eefcda8ecd82dc3a1d2",
+    "bytes": 409577
   },
-  "signature": "KMaGgjAmFVmhnEJBt+4Wo4LimEzxemFmYnrOACO9+qoM0AbPvrvfTqaXMKpFTXMRCGpbEueb5074ecCNan2BBw=="
+  "signature": "yNnEv0xWS2efHI7JLFvT59cxCXLo4lvAjMMSIMYsqaddNPefCirP5Z79+e5ZoMVSCZJMupyjzRa8j8LQ6l/wCA=="
 }
