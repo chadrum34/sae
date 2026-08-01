@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-battery-protection-20260801-58",
-  "displayName": "バッテリー保護画面の一括起動",
-  "publishedAt": "2026-08-01T04:28:55.1033953Z",
+  "updateId": "browser-legacy-withdrawal-backfill-20260801-61",
+  "displayName": "更新前の非稼働金額を出金履歴へ自動補完",
+  "publishedAt": "2026-08-01T06:33:52.6971467Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-battery-protection-20260801-58.zip",
-    "sha256": "fa929e8c2e1984786af50f6efd04859160a3b7f1a81293afdd9c42d0067aa75d",
-    "bytes": 389715
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-legacy-withdrawal-backfill-20260801-61.zip",
+    "sha256": "48c05c6bc1d601af57b0acadb76e65810db89a106197bc17a6609e22e40ac267",
+    "bytes": 398173
   },
-  "signature": "QGj2/gt3tHcPNynSpgT15+2bXhAw/bWuJrsJjjk4neBZvITtuX007KfuwVSw0NbcCIDVgbu2ZeUKB9+qCvb3AQ=="
+  "signature": "cpc+nAtVrPj20YhF0dJlcEE3miCSZm5GUdIk3ycHgL1Lfwf9VTnHJyzWVxSSfGcPXKuoWQiY/JM6LjFuiBO2CQ=="
 }
