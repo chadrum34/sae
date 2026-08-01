@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-manual-withdrawal-subject-20260801-64",
-  "displayName": "出金履歴の端末を選択・自由入力",
-  "publishedAt": "2026-08-01T08:27:03.1922837Z",
+  "updateId": "browser-integrated-manual-withdrawal-subject-20260801-65",
+  "displayName": "共通安全更新・出金端末の選択と自由入力",
+  "publishedAt": "2026-08-01T08:35:08.3175935Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-manual-withdrawal-subject-20260801-64.zip",
-    "sha256": "6dcb13c4aa19707fc3aee48c92d7f56b8684c821ba71c196ec53295051af147f",
-    "bytes": 307389
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-integrated-manual-withdrawal-subject-20260801-65.zip",
+    "sha256": "70966fbcacddadfeaaf0f39b176c3fa7063cfc620f68da3d5ef66736c100dfda",
+    "bytes": 374543
   },
-  "signature": "tzUqWORm9K4bLjP5+EiDaH+eDUUbpl8efcgqKmWywD53n7yWtBh1UrrBZP6Mg4tMdWABDf6x512I9uz/Iuu9Dg=="
+  "signature": "9NA4xT8eZr+OqegEpghl9OoOdGKY4nqFSNtbi8jsaY7IaRThcPL0vGf2PBbXEJgbN2S+94g1P52gucWleVZjBQ=="
 }
