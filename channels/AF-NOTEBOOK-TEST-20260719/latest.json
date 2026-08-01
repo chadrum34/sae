@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-dense-checklist-day-sync-20260729-52",
-  "displayName": "高密度チェックリスト・作業日同期",
-  "publishedAt": "2026-07-29T03:10:16.9338168Z",
+  "updateId": "browser-inactive-withdrawal-auto-revenue-20260801-55",
+  "displayName": "非稼働出金の自動反映",
+  "publishedAt": "2026-08-01T03:31:57.1158985Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-dense-checklist-day-sync-20260729-52.zip",
-    "sha256": "0b9ae62c95bb92b922b0f3108496879232bab1b8e2579a8985bb695d5a397720",
-    "bytes": 175692
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-inactive-withdrawal-auto-revenue-20260801-55.zip",
+    "sha256": "f1417092c7d8b2fa9ed4e2fdc99f7022390a821fbe6b57de357e5ba847e249a1",
+    "bytes": 297691
   },
-  "signature": "j86GP20xDCShQIQg6MQMo6Sz/37+KHf0ki0F5XazPMJmAUuIjn1gL4yrkJqZNrfjnoAH9EDIwOQL/pmS9uI2Cw=="
+  "signature": "3Xx2FdQvDHEr2gxE0xnlo25sNqMH1k+ocg3WBisiUvPgR7bWqRI16HNhmT7yQjDfRcc8EGZE17fiYCmR8EthDg=="
 }
