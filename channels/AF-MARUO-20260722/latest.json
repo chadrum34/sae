@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updateId": "browser-integrated-manual-withdrawal-subject-cumulative-20260801-69",
+  "displayName": "共通安全更新・出金端末の選択と自由入力",
+  "publishedAt": "2026-08-01T08:55:00.3933209Z",
+  "customerId": "AF-MARUO-20260722",
+  "packageId": "android-fleet-browser-agent-v1",
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MARUO-20260722/artifacts/browser-integrated-manual-withdrawal-subject-cumulative-20260801-69.zip",
+    "sha256": "55a13a56ee4130e8fb4f76fd6783efc53df3d7289a737271b0e8b01a335b969a",
+    "bytes": 433863
+  },
+  "signature": "3IYT5ur8q/+pCl98Fc1g53GmdgWCcmilC6KDF3ied+yJtJs0Ci1nw5xR+bMPYL+AzWGBCfJQuFpaVsEe27y8Bw=="
+}

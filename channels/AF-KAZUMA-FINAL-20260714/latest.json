@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-legacy-withdrawal-backfill-20260801-62",
-  "displayName": "更新前の非稼働金額を出金履歴へ自動補完",
-  "publishedAt": "2026-08-01T06:35:47.7941001Z",
+  "updateId": "browser-integrated-manual-withdrawal-subject-20260801-66",
+  "displayName": "共通安全更新・出金端末の選択と自由入力",
+  "publishedAt": "2026-08-01T08:54:58.3461938Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-legacy-withdrawal-backfill-20260801-62.zip",
-    "sha256": "fdd0cf20e4b73c3604e1047f616558230e4ba16c18e6462965d76614e03462ff",
-    "bytes": 429984
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-integrated-manual-withdrawal-subject-20260801-66.zip",
+    "sha256": "5e9ec2b2d0723cb0bb86f51cfe6867fa3b429e761736e02758a3a078b359ed90",
+    "bytes": 453997
   },
-  "signature": "qCv1VKrYFGaZvncDrn51t3fJNZcytUrfPVL4v3D055+BV3/6Uu2CRZYfpkd8uQnmCr2qfV82G8bUVn6uu/pKDw=="
+  "signature": "ZmNdAtsKes0xvHHNs+Gpp4Ac9ofFbyw0m3RtsBhTtGvvmyTV2+jjE2zw6TIuhGBYyYQuYIof/q9waAFnVE95Cw=="
 }

@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-legacy-withdrawal-backfill-cumulative-20260801-63",
-  "displayName": "更新前の非稼働金額を出金履歴へ自動補完",
-  "publishedAt": "2026-08-01T06:35:48.5134301Z",
+  "updateId": "browser-integrated-manual-withdrawal-subject-cumulative-20260801-67",
+  "displayName": "共通安全更新・出金端末の選択と自由入力",
+  "publishedAt": "2026-08-01T08:54:59.0556941Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-legacy-withdrawal-backfill-cumulative-20260801-63.zip",
-    "sha256": "e5a8763463673947a682173ab32370410158e2aaca1e8eb669f195e75420dc40",
-    "bytes": 429355
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-integrated-manual-withdrawal-subject-cumulative-20260801-67.zip",
+    "sha256": "44adfdb3123de0e3a51e2e84b0fdfa6cecdcc60153a78447db848ba660b8ba53",
+    "bytes": 453998
   },
-  "signature": "2lTM1plPRJDdEDRqh4WWjT/GFYtV9Xk8Kcl/b2q39lCqii4ZTX+0WBqV0pWLqIg2Co/aEtxWd1uWxtBJyfOiCQ=="
+  "signature": "hzmnGawNAf+RsnKWOybJ54WB9ciyTt0T02I8t7+B5POj0lVrfjeO5Obqfk++sUWWwBWTdW2Q03mkiDZu7GKEBA=="
 }

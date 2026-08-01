@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updateId": "browser-integrated-manual-withdrawal-subject-cumulative-20260801-70",
+  "displayName": "共通安全更新・出金端末の選択と自由入力",
+  "publishedAt": "2026-08-01T08:55:01.0041058Z",
+  "customerId": "AF-ATSUSHI-20260730",
+  "packageId": "android-fleet-browser-agent-atsushi-v1",
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-integrated-manual-withdrawal-subject-cumulative-20260801-70.zip",
+    "sha256": "953402de95ece89f3c80e49d5005ea8bebf5967f1cbe4c5eaa13e72f8e4e0cee",
+    "bytes": 412389
+  },
+  "signature": "gzu7nLhWwYTqyzvQD4yaHcxKbuohgALTHKlyf1ZRk8K26vXFXIJbaBzTI7IIqNnUZhgfsXbLbxX64fG2N6T1BA=="
+}
