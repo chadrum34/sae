@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-battery-protection-20260801-59",
-  "displayName": "バッテリー保護画面の一括起動",
-  "publishedAt": "2026-08-01T04:37:03.3156715Z",
+  "updateId": "browser-legacy-withdrawal-backfill-20260801-62",
+  "displayName": "更新前の非稼働金額を出金履歴へ自動補完",
+  "publishedAt": "2026-08-01T06:35:47.7941001Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-battery-protection-20260801-59.zip",
-    "sha256": "fca607c852b215edb0a02c1c5c7486b2fbbfb0f26f2d4c13415dc0952a9455ec",
-    "bytes": 421555
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-legacy-withdrawal-backfill-20260801-62.zip",
+    "sha256": "fdd0cf20e4b73c3604e1047f616558230e4ba16c18e6462965d76614e03462ff",
+    "bytes": 429984
   },
-  "signature": "eGIKXm0KUfyLLowRqxcfrlnDkb/CNXs1xavWrh2IsnheE2S7UAJerZQYLKlXc0HQUQradwewwtn4Oronf5zQCg=="
+  "signature": "qCv1VKrYFGaZvncDrn51t3fJNZcytUrfPVL4v3D055+BV3/6Uu2CRZYfpkd8uQnmCr2qfV82G8bUVn6uu/pKDw=="
 }
