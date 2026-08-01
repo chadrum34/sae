@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-dense-checklist-day-sync-20260729-53",
-  "displayName": "高密度チェックリスト・作業日同期",
-  "publishedAt": "2026-07-29T03:12:41.3099513Z",
+  "updateId": "browser-inactive-withdrawal-auto-revenue-20260801-56",
+  "displayName": "非稼働出金の自動反映",
+  "publishedAt": "2026-08-01T03:40:02.8984782Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-dense-checklist-day-sync-20260729-53.zip",
-    "sha256": "e64f24b981b63c249e02576fd7bb2279504b4db7a2caa3c80da89162f99d9a90",
-    "bytes": 410206
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-inactive-withdrawal-auto-revenue-20260801-56.zip",
+    "sha256": "bc2f75fd035e983942f8da425021c66b0665ceaf88d966b3157daa84b4c29189",
+    "bytes": 413005
   },
-  "signature": "9YLG7xkqY66qUwRvbLD+LNny+5Hni2WGZykVnZMxn8CrGkdFYLUGIPw9kKfnBtwz6yifU31UwdXR7gJyxL3yBA=="
+  "signature": "+49sRQPQ8d9z/w129pguS8vIbPi06zATqRQQRnsip60xuSjgSdLoYOHzhnyJ1kuwnN9KiUyrri9j6RyppH/sAQ=="
 }

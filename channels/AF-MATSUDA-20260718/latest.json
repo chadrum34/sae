@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-dense-checklist-day-sync-cumulative-20260729-54",
-  "displayName": "高密度チェックリスト・作業日同期",
-  "publishedAt": "2026-07-29T03:12:42.0522544Z",
+  "updateId": "browser-inactive-withdrawal-auto-revenue-cumulative-20260801-57",
+  "displayName": "非稼働出金の自動反映",
+  "publishedAt": "2026-08-01T03:40:02.8974783Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-dense-checklist-day-sync-cumulative-20260729-54.zip",
-    "sha256": "5df92d3e70bd31363de0b3b1dace5b4cd85f102c26df3eefcda8ecd82dc3a1d2",
-    "bytes": 409577
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-inactive-withdrawal-auto-revenue-cumulative-20260801-57.zip",
+    "sha256": "fa46507f70d30a82e83e7da7b38fcc41e6c3af8f8d22a01bc6050056e0f604e6",
+    "bytes": 412375
   },
-  "signature": "yNnEv0xWS2efHI7JLFvT59cxCXLo4lvAjMMSIMYsqaddNPefCirP5Z79+e5ZoMVSCZJMupyjzRa8j8LQ6l/wCA=="
+  "signature": "zZBHERF1sSIHIP4FzzUNXhOop8kV4mUowl88YFiIoob3kbTnx1neQkNr4g5uvcBr+VbZwVyGBMuja1mlay0gBg=="
 }
