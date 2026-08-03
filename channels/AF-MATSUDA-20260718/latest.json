@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-reward-sync-reliability-cumulative-20260803-73",
-  "displayName": "追加報酬の保存・XiaoWei同期安定化",
-  "publishedAt": "2026-08-03T08:25:41.1536009Z",
+  "updateId": "browser-apn-safety-cumulative-20260804-81",
+  "displayName": "自動APNのSIM再確認・安全保存修正",
+  "publishedAt": "2026-08-03T16:40:20.4779616Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-reward-sync-reliability-cumulative-20260803-73.zip",
-    "sha256": "2c17d6b0238c1ac0ba7b50831b0cd2deeff46492ab0e2c3ca20c78bc42414e1b",
-    "bytes": 459054
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-apn-safety-cumulative-20260804-81.zip",
+    "sha256": "b41a9bae3a26a88f60b1a36944b763546d2cd3d7dfe59c8ecadfe7796966bc0a",
+    "bytes": 467711
   },
-  "signature": "BwhK5vxHlYeQ1rrCkYV8L9D1WKStUMG5b83KmEOfZHZD1A2+94nVCrqgVa6tooDu10AGnt4WEEjMPGXguB2pDg=="
+  "signature": "M4oFVlo1P06gOsTVvfhHzb3wzNR/OnkoIemf0bRtQgtCNMqKdhKt80iP8Qh8qUBdKPN3u+/KtejWNZ9cKn6LCA=="
 }

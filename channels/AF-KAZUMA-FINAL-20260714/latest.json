@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-reward-sync-reliability-20260803-72",
-  "displayName": "追加報酬の保存・XiaoWei同期安定化",
-  "publishedAt": "2026-08-03T08:25:40.3086027Z",
+  "updateId": "browser-apn-safety-cumulative-20260804-80",
+  "displayName": "自動APNのSIM再確認・安全保存修正",
+  "publishedAt": "2026-08-03T16:40:19.5505736Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-reward-sync-reliability-20260803-72.zip",
-    "sha256": "7ef137b98b53aabe8fd9edd393bff2aac9e304f35334f7cec2a2420d2cb90815",
-    "bytes": 459055
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-apn-safety-cumulative-20260804-80.zip",
+    "sha256": "1ad011f401676adbcd198d558525f3c962edab00f025d9e104b63904b8aad84b",
+    "bytes": 467725
   },
-  "signature": "BwOOsjMNLp5xZG0lB9Q6lnXt/hFmrXFWFVrSZrkNSpl6Zmp5P8p6CQoKNOZXVRm22kuq9qBLy6ur0zbBaGv1BQ=="
+  "signature": "Sek6TKQV41uZ8Bu7DD/Y4IkY2pXA6XMWf6u4R81C+0+dGonS7S99sJrm8wCfxyF8ILeMIWpV2F0eCe9+nDWpBw=="
 }
