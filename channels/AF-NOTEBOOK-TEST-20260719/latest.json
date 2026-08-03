@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-reward-sync-reliability-20260803-71",
-  "displayName": "追加報酬の保存・XiaoWei同期安定化",
-  "publishedAt": "2026-08-03T08:10:00.0041730Z",
+  "updateId": "browser-apn-safety-20260804-79",
+  "displayName": "自動APNのSIM再確認・安全保存修正",
+  "publishedAt": "2026-08-03T16:34:09.7535202Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-reward-sync-reliability-20260803-71.zip",
-    "sha256": "017c862ca7d9c9a902e5524109696b6d5c31990779d21445f3b5fcb3c4d4a947",
-    "bytes": 174440
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-apn-safety-20260804-79.zip",
+    "sha256": "f46dc676e78596ffe05a4c0ba40997705ce4ba4da16fc45797d0da2d559992dc",
+    "bytes": 364183
   },
-  "signature": "hL8l4IJ3V9fDd0DXinzEw5y04Edd5dFW7J+uo9KuW5DsHcT4HjXj/7zn9H3VvhudfOLKN1ljCe/b/5kq6OKeAw=="
+  "signature": "9Ppvqz5Aj/FV0dgmvpEYit13vlV20/zH2pkOP5fFhw45oSvGTxtE7mXaZVi+wKCuhFPATQwu2y39QjXrvoYVBw=="
 }
