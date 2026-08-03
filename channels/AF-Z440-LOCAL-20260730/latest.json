@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-reward-sync-reliability-cumulative-20260803-77",
-  "displayName": "追加報酬の保存・XiaoWei同期安定化",
-  "publishedAt": "2026-08-03T14:01:20.7450339Z",
+  "updateId": "browser-z440-auto-update-bootstrap-cumulative-20260803-78",
+  "displayName": "Z440自動更新参加・追加報酬同期安定化",
+  "publishedAt": "2026-08-03T14:09:46.4576916Z",
   "customerId": "AF-Z440-LOCAL-20260730",
   "packageId": "android-fleet-browser-z440-nokey-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-reward-sync-reliability-cumulative-20260803-77.zip",
-    "sha256": "de0f50e1c4125574033c9a4407c16ab2633eddcd95131856286f3d614ba7f35d",
-    "bytes": 417468
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-z440-auto-update-bootstrap-cumulative-20260803-78.zip",
+    "sha256": "a59e4a1789a7e81e0b1ca36e644f530a947bf8d9b666e4be07aa6ad262afcd5b",
+    "bytes": 418073
   },
-  "signature": "Hcyre57S864dG6oGug5ommgwG0NVYGhxsk7vii8SqB887ToVL8jbw0hIfJLtr3Rf8vWqq5gr3W/my0VOIJqoBg=="
+  "signature": "lFI1imo0jcrP/5sOB2N5kbAviw+VCmrisSs4Vz9VooVMNIds5QIsm48iuRSuVJo1hSDcHWzFn5GGLtG+goJzAw=="
 }
