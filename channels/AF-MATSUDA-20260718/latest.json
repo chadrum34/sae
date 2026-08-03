@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-integrated-manual-withdrawal-subject-cumulative-20260801-67",
-  "displayName": "共通安全更新・出金端末の選択と自由入力",
-  "publishedAt": "2026-08-01T08:54:59.0556941Z",
+  "updateId": "browser-reward-sync-reliability-cumulative-20260803-73",
+  "displayName": "追加報酬の保存・XiaoWei同期安定化",
+  "publishedAt": "2026-08-03T08:25:41.1536009Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-integrated-manual-withdrawal-subject-cumulative-20260801-67.zip",
-    "sha256": "44adfdb3123de0e3a51e2e84b0fdfa6cecdcc60153a78447db848ba660b8ba53",
-    "bytes": 453998
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-reward-sync-reliability-cumulative-20260803-73.zip",
+    "sha256": "2c17d6b0238c1ac0ba7b50831b0cd2deeff46492ab0e2c3ca20c78bc42414e1b",
+    "bytes": 459054
   },
-  "signature": "hzmnGawNAf+RsnKWOybJ54WB9ciyTt0T02I8t7+B5POj0lVrfjeO5Obqfk++sUWWwBWTdW2Q03mkiDZu7GKEBA=="
+  "signature": "BwhK5vxHlYeQ1rrCkYV8L9D1WKStUMG5b83KmEOfZHZD1A2+94nVCrqgVa6tooDu10AGnt4WEEjMPGXguB2pDg=="
 }

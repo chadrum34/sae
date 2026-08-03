@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-integrated-manual-withdrawal-subject-cumulative-20260801-70",
-  "displayName": "共通安全更新・出金端末の選択と自由入力",
-  "publishedAt": "2026-08-01T08:55:01.0041058Z",
+  "updateId": "browser-reward-sync-reliability-cumulative-20260803-76",
+  "displayName": "追加報酬の保存・XiaoWei同期安定化",
+  "publishedAt": "2026-08-03T08:25:43.2961719Z",
   "customerId": "AF-ATSUSHI-20260730",
   "packageId": "android-fleet-browser-agent-atsushi-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-integrated-manual-withdrawal-subject-cumulative-20260801-70.zip",
-    "sha256": "953402de95ece89f3c80e49d5005ea8bebf5967f1cbe4c5eaa13e72f8e4e0cee",
-    "bytes": 412389
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-reward-sync-reliability-cumulative-20260803-76.zip",
+    "sha256": "26315fc720d8f1ec70fcba08459c48b6efa6f04e338dd0d223e0a464918e902a",
+    "bytes": 417467
   },
-  "signature": "gzu7nLhWwYTqyzvQD4yaHcxKbuohgALTHKlyf1ZRk8K26vXFXIJbaBzTI7IIqNnUZhgfsXbLbxX64fG2N6T1BA=="
+  "signature": "tD0vnOxGUMT49zJP3KPHvnBA3QRz+sj0WDxqiHDyXG2lQumhm/cOeQKNl6bMXBoTAk1MMTMHdV8cn40ACWQZCQ=="
 }
