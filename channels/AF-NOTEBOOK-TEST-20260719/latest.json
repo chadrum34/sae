@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-apn-safety-20260804-79",
-  "displayName": "自動APNのSIM再確認・安全保存修正",
-  "publishedAt": "2026-08-03T16:34:09.7535202Z",
+  "updateId": "browser-xiaowei-sync-first-pass-20260804-86",
+  "displayName": "DB反映待機・XiaoWei初回同期修正",
+  "publishedAt": "2026-08-04T06:49:37.2055956Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-apn-safety-20260804-79.zip",
-    "sha256": "f46dc676e78596ffe05a4c0ba40997705ce4ba4da16fc45797d0da2d559992dc",
-    "bytes": 364183
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-sync-first-pass-20260804-86.zip",
+    "sha256": "6d9d341ea27e98d276edc5bdc18894924a0dfc060521af91707b7975a2db92ca",
+    "bytes": 364391
   },
-  "signature": "9Ppvqz5Aj/FV0dgmvpEYit13vlV20/zH2pkOP5fFhw45oSvGTxtE7mXaZVi+wKCuhFPATQwu2y39QjXrvoYVBw=="
+  "signature": "zg/Z/4fipQ/zjhn3kuh1OOwYfDUU4NPQ74WDLV4p7kYkWUSmSeZbdWiixZme5xLw9r+W32ci/U/TEUwkS2oRBQ=="
 }
