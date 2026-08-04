@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-apn-safety-cumulative-20260804-85",
-  "displayName": "自動APNのSIM再確認・安全保存修正",
-  "publishedAt": "2026-08-03T16:40:23.3972609Z",
+  "updateId": "browser-xiaowei-sync-first-pass-cumulative-20260804-92",
+  "displayName": "DB反映待機・XiaoWei初回同期修正",
+  "publishedAt": "2026-08-04T06:57:16.1499030Z",
   "customerId": "AF-Z440-LOCAL-20260730",
   "packageId": "android-fleet-browser-z440-nokey-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-apn-safety-cumulative-20260804-85.zip",
-    "sha256": "af9e34344aa681890d568df6d518859727da18465638f4ea76c4c119056485fa",
-    "bytes": 426709
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-xiaowei-sync-first-pass-cumulative-20260804-92.zip",
+    "sha256": "943e37ed704b3d9098d90f45c8b08217ca24981b8e96492b21c08a2e7aec419a",
+    "bytes": 426894
   },
-  "signature": "zbEn1GEqb/ij/2VKkrvcTvi8dP2VGK4nuY5CdqBa1SLkBLtALpuM02AmpSHeThdtpu5r8l/KN45mbytF9DC+BQ=="
+  "signature": "htj20UuRBPvrOHhi1LiCzdkpIkefJvts+1NkIdZANMZCDwLlKNPTO0zduxeM3pzlQ49UBh+QZ3uQOTHrCEMSDw=="
 }

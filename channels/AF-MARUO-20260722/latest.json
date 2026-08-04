@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-apn-safety-cumulative-20260804-83",
-  "displayName": "自動APNのSIM再確認・安全保存修正",
-  "publishedAt": "2026-08-03T16:40:21.9764977Z",
+  "updateId": "browser-xiaowei-sync-first-pass-cumulative-20260804-90",
+  "displayName": "DB反映待機・XiaoWei初回同期修正",
+  "publishedAt": "2026-08-04T06:57:14.7881914Z",
   "customerId": "AF-MARUO-20260722",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MARUO-20260722/artifacts/browser-apn-safety-cumulative-20260804-83.zip",
-    "sha256": "fb36becb718450155f2fd6a625866aaa8fae3bfb332f89f6a7cd4d1de4bd7d7d",
-    "bytes": 447586
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MARUO-20260722/artifacts/browser-xiaowei-sync-first-pass-cumulative-20260804-90.zip",
+    "sha256": "5e8574037a0ea3c521178a09133966771cc6529723f40af07b36e75c64d48ded",
+    "bytes": 447774
   },
-  "signature": "ARl9O50+YyegScf9yBRb9G8quXqMZPNzdJztPvl/zS2yiIqj+v3GifuV/za3/O/vP2ZJ5VK8jZ34L/qgEd/1BA=="
+  "signature": "VYgrXEgwPUI51yOP4zLNYYlCK8NdmR0zljw8DXNw6XJBRcrIMVFPOeA0zUNq1DBdorUGk+yZnMQTMWYfkGpACA=="
 }
