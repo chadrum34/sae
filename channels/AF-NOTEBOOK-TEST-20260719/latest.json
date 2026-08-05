@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-sync-first-pass-20260804-86",
-  "displayName": "DB反映待機・XiaoWei初回同期修正",
-  "publishedAt": "2026-08-04T06:49:37.2055956Z",
+  "updateId": "browser-fleet-version-display-20260805-93",
+  "displayName": "Fleet適用版の画面表示",
+  "publishedAt": "2026-08-05T03:06:31.9203290Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-sync-first-pass-20260804-86.zip",
-    "sha256": "6d9d341ea27e98d276edc5bdc18894924a0dfc060521af91707b7975a2db92ca",
-    "bytes": 364391
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-fleet-version-display-20260805-93.zip",
+    "sha256": "b6555ddeb34f13a6f4ae1fd9933d0778d80362cec781d5c871e11ce3e7282b1e",
+    "bytes": 410651
   },
-  "signature": "zg/Z/4fipQ/zjhn3kuh1OOwYfDUU4NPQ74WDLV4p7kYkWUSmSeZbdWiixZme5xLw9r+W32ci/U/TEUwkS2oRBQ=="
+  "signature": "6qChLtSVwq+etmvmBBbPL5WtIKpTxk0U8XUZxxCnM+wh+ThDIrsSjduS8fSSir/E5XsQZCLVS+P7qVG795LsBQ=="
 }
