@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-sync-first-pass-cumulative-20260804-90",
-  "displayName": "DB反映待機・XiaoWei初回同期修正",
-  "publishedAt": "2026-08-04T06:57:14.7881914Z",
+  "updateId": "browser-fleet-version-display-cumulative-20260805-104",
+  "displayName": "Fleet適用版の画面表示",
+  "publishedAt": "2026-08-05T03:18:15.3255563Z",
   "customerId": "AF-MARUO-20260722",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MARUO-20260722/artifacts/browser-xiaowei-sync-first-pass-cumulative-20260804-90.zip",
-    "sha256": "5e8574037a0ea3c521178a09133966771cc6529723f40af07b36e75c64d48ded",
-    "bytes": 447774
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MARUO-20260722/artifacts/browser-fleet-version-display-cumulative-20260805-104.zip",
+    "sha256": "6a62cccbc5699cd1a39f22dad1f75eab29de711d2f3834ac22f7b4b66efdd0d0",
+    "bytes": 449725
   },
-  "signature": "VYgrXEgwPUI51yOP4zLNYYlCK8NdmR0zljw8DXNw6XJBRcrIMVFPOeA0zUNq1DBdorUGk+yZnMQTMWYfkGpACA=="
+  "signature": "JRpFX40ftxmabImXoq/y6JYKnrkFBCEPOkUMQKPfCvqsixaWLyLCMzOiuiyjQyKVc8UeZvbNi9ENdXrrbwUZBQ=="
 }

@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-sync-first-pass-cumulative-20260804-91",
-  "displayName": "DB反映待機・XiaoWei初回同期修正",
-  "publishedAt": "2026-08-04T06:57:15.4741657Z",
+  "updateId": "browser-fleet-version-display-cumulative-20260805-105",
+  "displayName": "Fleet適用版の画面表示",
+  "publishedAt": "2026-08-05T03:18:16.0014450Z",
   "customerId": "AF-ATSUSHI-20260730",
   "packageId": "android-fleet-browser-agent-atsushi-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-xiaowei-sync-first-pass-cumulative-20260804-91.zip",
-    "sha256": "0cd4a1becf31b1fc49b604e8ea4c11eac37a2d287688f6dbd8f3136ae192ab08",
-    "bytes": 426300
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-fleet-version-display-cumulative-20260805-105.zip",
+    "sha256": "9a6676d1c2e7fd369b4c2bd8d44a2ff750b545009f209a3c3a2ff9018e4beba4",
+    "bytes": 428263
   },
-  "signature": "ukguKCaq1wGWurEPihqQc+wISx9dBEwoVPnpFdOLAOdgX6uErXt6Dh25q+I3er3XMLcbDooFx5f2fwQBgQMwCw=="
+  "signature": "TvZpH0G2vhHkcQU7jGOkaN6q0IJPM88wJawkMswZm+AesK1MmfeyTQFRTPQU+EO3cuXCJyKMrySj/CGdWnN1Ag=="
 }
