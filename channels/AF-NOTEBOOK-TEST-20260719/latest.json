@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-master-official-corrections-20260805-107",
-  "displayName": "端末マスター公式型番・5G表記修正",
-  "publishedAt": "2026-08-05T10:51:52.9714986Z",
+  "updateId": "browser-xiaowei-manual-resync-20260805-114",
+  "displayName": "XiaoWei手動同期の確実な再送",
+  "publishedAt": "2026-08-05T12:57:03.8920473Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-device-master-official-corrections-20260805-107.zip",
-    "sha256": "b4f6c508681260f01b1311fd1c19630559931bc97ccc75d11fa684fdc025d7be",
-    "bytes": 425689
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-manual-resync-20260805-114.zip",
+    "sha256": "3a5a6429e74687843f637a0e9c49c131e33ce1e988333084815289792a6591b1",
+    "bytes": 425825
   },
-  "signature": "2/IKK9zGo6Iw9X6CV2AYaPfzgYBtBXFP5LV/NFDvHgpoD1NRdfiqc1mP9ZMsIliYK0aQyuQ2XgSSfqS8T8HRAg=="
+  "signature": "f6RNxu2YmG5RaCFp9UrUT+3/JVkZOQZvDu2KxGZuFpXZByU34/n9C9nSMqbzjEzwTHsYWcfZsT2ss3A2ydJ6DA=="
 }
