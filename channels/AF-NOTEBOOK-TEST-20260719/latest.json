@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-fleet-version-display-20260805-93",
+  "updateId": "browser-fleet-version-display-20260805-100",
   "displayName": "Fleet適用版の画面表示",
-  "publishedAt": "2026-08-05T03:06:31.9203290Z",
+  "publishedAt": "2026-08-05T03:10:23.4460058Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-fleet-version-display-20260805-93.zip",
-    "sha256": "b6555ddeb34f13a6f4ae1fd9933d0778d80362cec781d5c871e11ce3e7282b1e",
-    "bytes": 410651
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-fleet-version-display-20260805-100.zip",
+    "sha256": "036e1274dd6b8222375efdacfeb0bced33283bf3209c28bb78ce09e91370606a",
+    "bytes": 410743
   },
-  "signature": "6qChLtSVwq+etmvmBBbPL5WtIKpTxk0U8XUZxxCnM+wh+ThDIrsSjduS8fSSir/E5XsQZCLVS+P7qVG795LsBQ=="
+  "signature": "nkJyZHrgwKkF0MghN6gPkluArbaqiyUee9APm+rVV/2HFdOEnNJER9WYZneO4YVkZmBJkxuEI8jy8ojcQxZoAA=="
 }
