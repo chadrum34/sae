@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-master-official-corrections-cumulative-20260805-112",
-  "displayName": "端末マスター公式型番・5G表記修正",
-  "publishedAt": "2026-08-05T10:56:53.5596570Z",
+  "updateId": "browser-xiaowei-manual-resync-cumulative-20260805-119",
+  "displayName": "XiaoWei手動同期の確実な再送",
+  "publishedAt": "2026-08-05T13:04:13.9389719Z",
   "customerId": "AF-ATSUSHI-20260730",
   "packageId": "android-fleet-browser-agent-atsushi-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-device-master-official-corrections-cumulative-20260805-112.zip",
-    "sha256": "18a4b77bc7d582e939bd8f0f68725adf0e1110cd57f5baa848e2d598e3c1c23f",
-    "bytes": 443256
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-xiaowei-manual-resync-cumulative-20260805-119.zip",
+    "sha256": "0c8237856c281c40d721fbd9471649e9605ccf87ac73375bce03a3eab25d5ab1",
+    "bytes": 443380
   },
-  "signature": "uKc+xT8F8TX+ZfeYo++2q7NHb7zYT7BOwUmafsk84jKRZ53G3bNXZXU5+MJGKKyZR88xwjnm/0IU83P6UpBNBA=="
+  "signature": "/VVzg1bSH5AX5eW9B1nhQLi/WCw60SUgPHVs3+vbtF5Li/wVG44YgBmMRHC8TlkmzuoH+a9IxsNSUkAWxSu+Cg=="
 }

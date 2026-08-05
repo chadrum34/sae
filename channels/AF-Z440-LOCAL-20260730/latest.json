@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-device-master-official-corrections-cumulative-20260805-113",
-  "displayName": "端末マスター公式型番・5G表記修正",
-  "publishedAt": "2026-08-05T10:56:54.2465324Z",
+  "updateId": "browser-xiaowei-manual-resync-cumulative-20260805-120",
+  "displayName": "XiaoWei手動同期の確実な再送",
+  "publishedAt": "2026-08-05T13:04:14.6306587Z",
   "customerId": "AF-Z440-LOCAL-20260730",
   "packageId": "android-fleet-browser-z440-nokey-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-device-master-official-corrections-cumulative-20260805-113.zip",
-    "sha256": "3eb094486b32f47e1c36f6f19194323920e0273010cfe24235f7e3f1038c198c",
-    "bytes": 443853
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-xiaowei-manual-resync-cumulative-20260805-120.zip",
+    "sha256": "32158286b1f394be0feebe1d61d9da67d5b2d76f819f47c328e6b19387d5c06e",
+    "bytes": 443976
   },
-  "signature": "ydE7j87oFSJv75W/ys7CmoLFypKWjIawWwMNRdWqOkpWiBVH8aDkpLxO857vabBHTojWWYl/lxNPEwZPhjxqAA=="
+  "signature": "TqL+7sluZw/83ye5ImnjvKZUXOjz3mKS5vV0wHNAOhCvtAzzFyhZ2188s05dr0OR850OpDDkIDvLgXsy3BHcBA=="
 }
