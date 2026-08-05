@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-fleet-version-display-cumulative-20260805-101",
-  "displayName": "Fleet適用版の画面表示",
-  "publishedAt": "2026-08-05T03:18:12.9256419Z",
+  "updateId": "browser-device-master-official-corrections-cumulative-20260805-108",
+  "displayName": "端末マスター公式型番・5G表記修正",
+  "publishedAt": "2026-08-05T10:56:50.5790017Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-fleet-version-display-cumulative-20260805-101.zip",
-    "sha256": "56153c27d75edc35de90662ef860d0edbd7f06abd1d62f01d9079aac2fda2430",
-    "bytes": 469879
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-device-master-official-corrections-cumulative-20260805-108.zip",
+    "sha256": "dea43d3fec1d152429bdfa83aaa5abd5c4580b312cc8c541ffdf6039d88cf76c",
+    "bytes": 484875
   },
-  "signature": "UA5uaDzuP8L9wq8QeM09L1tNaBEoqZhS2NPcM8xVi6mj9m/mWQJwBp+NRyqv+Mn6UCq/g3ZU7XFCvojKTY43Bg=="
+  "signature": "pC5FXZm3ThdSPuE+qUl1C9HldW+IcIwWXLvR8Ib2we66bGZIO213dJysCtWfRCcCaz+/uTUg/KaYDs4efJ6ECQ=="
 }
