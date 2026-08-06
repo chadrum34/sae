@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-manual-resync-20260805-114",
-  "displayName": "XiaoWei手動同期の確実な再送",
-  "publishedAt": "2026-08-05T12:57:03.8920473Z",
+  "updateId": "browser-fleet-ui-workspaces-theme-20260806-121",
+  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
+  "publishedAt": "2026-08-06T14:56:56.9431783Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-xiaowei-manual-resync-20260805-114.zip",
-    "sha256": "3a5a6429e74687843f637a0e9c49c131e33ce1e988333084815289792a6591b1",
-    "bytes": 425825
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-fleet-ui-workspaces-theme-20260806-121.zip",
+    "sha256": "7500ad90a1e1b9970e427ad17cdf87574fba794a6f495d6672190692b24f6e93",
+    "bytes": 442669
   },
-  "signature": "f6RNxu2YmG5RaCFp9UrUT+3/JVkZOQZvDu2KxGZuFpXZByU34/n9C9nSMqbzjEzwTHsYWcfZsT2ss3A2ydJ6DA=="
+  "signature": "OvZ6I803W1cWn2UiZ67HowOIIJGgD5dtqKEcaMnxUj06/6hbf03mHRqFvjFLOdU9WkRD0iqEAhDtUMqyI3GGDA=="
 }
