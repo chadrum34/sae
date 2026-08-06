@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-manual-resync-cumulative-20260805-115",
-  "displayName": "XiaoWei手動同期の確実な再送",
-  "publishedAt": "2026-08-05T13:04:10.9144630Z",
+  "updateId": "browser-fleet-ui-workspaces-theme-cumulative-20260806-122",
+  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
+  "publishedAt": "2026-08-06T15:06:33.0166253Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-xiaowei-manual-resync-cumulative-20260805-115.zip",
-    "sha256": "8e53a037507b6ce15b6e97d5fece20d26ce189bcf94c490bc48188b3ceee1e8b",
-    "bytes": 484995
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-fleet-ui-workspaces-theme-cumulative-20260806-122.zip",
+    "sha256": "a2d76ca115f61cb4d78acde43177d2f982d6c64b961c40d9e2fface4a835395e",
+    "bytes": 501861
   },
-  "signature": "7qoAFNnSo1+cggGYiXbZH+uuWZvXyFGm52topJrtKgPhkgdffgaqGc4kxCYw5vIkoOq5rdAD1qPGcc+ZVoUtAA=="
+  "signature": "TdD4HoRQYzwdqSFOm++duqZ8NaXgC3yNBeRYfESILAh4GcHhS3zUBsBT9+iWe1UzEi4+C4c3AzHBiwE6NekRCg=="
 }

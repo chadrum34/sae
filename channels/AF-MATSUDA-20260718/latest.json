@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-manual-resync-cumulative-20260805-116",
-  "displayName": "XiaoWei手動同期の確実な再送",
-  "publishedAt": "2026-08-05T13:04:11.7361043Z",
+  "updateId": "browser-fleet-ui-workspaces-theme-cumulative-20260806-123",
+  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
+  "publishedAt": "2026-08-06T15:06:33.4499042Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-xiaowei-manual-resync-cumulative-20260805-116.zip",
-    "sha256": "36e2577d80596dffa6cfe957f19bd9a17508db6e3ff7560610980cfbc62933ff",
-    "bytes": 484983
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-fleet-ui-workspaces-theme-cumulative-20260806-123.zip",
+    "sha256": "3615048b0b311794f59e0486365620e543cb3ba523d06104fe04318a51e5307b",
+    "bytes": 501848
   },
-  "signature": "omnfGK/VjFAPQ1deJoR7OyJEax7eQJgZddD21ifei5viPBihvsCYdTOpzY/4GOravZxsc0pzw3sIk/URmqPUAg=="
+  "signature": "FYxnsJlr1Vq3BecTJLae44QnPN/CnfsvORTSmYnUC/QhYdILl4z26Xui/Q0CX39f9jsyFuoGHrodSR17LJNJAw=="
 }

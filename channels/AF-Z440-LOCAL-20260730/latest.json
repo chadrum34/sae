@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-xiaowei-manual-resync-cumulative-20260805-120",
-  "displayName": "XiaoWei手動同期の確実な再送",
-  "publishedAt": "2026-08-05T13:04:14.6306587Z",
+  "updateId": "browser-fleet-ui-workspaces-theme-cumulative-20260806-127",
+  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
+  "publishedAt": "2026-08-06T15:06:34.8067267Z",
   "customerId": "AF-Z440-LOCAL-20260730",
   "packageId": "android-fleet-browser-z440-nokey-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-xiaowei-manual-resync-cumulative-20260805-120.zip",
-    "sha256": "32158286b1f394be0feebe1d61d9da67d5b2d76f819f47c328e6b19387d5c06e",
-    "bytes": 443976
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-fleet-ui-workspaces-theme-cumulative-20260806-127.zip",
+    "sha256": "61bdfe281b4c9d7349e296ca83c9d691f07419b1e9e54e82e81c989fe19a47f9",
+    "bytes": 460836
   },
-  "signature": "TqL+7sluZw/83ye5ImnjvKZUXOjz3mKS5vV0wHNAOhCvtAzzFyhZ2188s05dr0OR850OpDDkIDvLgXsy3BHcBA=="
+  "signature": "Za8D4MhIeGYGPIz3WNQfJ3ltuyWPMulgmZhqKXUdw6RKIdMQIa4Dd8+u2uR/vTNlroULoD1bakcmOVOnIim3AQ=="
 }
