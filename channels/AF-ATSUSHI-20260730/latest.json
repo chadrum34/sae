@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-fleet-ui-workspaces-theme-cumulative-20260806-126",
-  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
-  "publishedAt": "2026-08-06T15:06:34.4811130Z",
+  "updateId": "browser-support-diagnostics-cumulative-20260807-133",
+  "displayName": "診断情報生成・更新ログ安全化",
+  "publishedAt": "2026-08-07T12:21:43.7913828Z",
   "customerId": "AF-ATSUSHI-20260730",
   "packageId": "android-fleet-browser-agent-atsushi-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-fleet-ui-workspaces-theme-cumulative-20260806-126.zip",
-    "sha256": "deb27a669c9abb7bc6e1913a12bfb218d8eea1e46f2246fe4ccaa0e68b7ba620",
-    "bytes": 460241
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-ATSUSHI-20260730/artifacts/browser-support-diagnostics-cumulative-20260807-133.zip",
+    "sha256": "b039dcf7a5995c369969a6f90d632b3860ee82c4aca3653e1823d23844e23c98",
+    "bytes": 486301
   },
-  "signature": "h3CyHVgfomrutGoCgwhLyJtaiecfeHKH9lBcWvD4KUdWy9NXMWv0dYcGq2STyUx42EQQD2mQGe0vQr4BlRzHCA=="
+  "signature": "ch/DV7j6jKTbxaT6BmOu872NPk2nHBZaIped3adbhg9+SAztxeLt5eLPwUYq8DiaZl7d78E3rmsaOs89xaV8Dg=="
 }

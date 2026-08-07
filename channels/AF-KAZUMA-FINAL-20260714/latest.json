@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-fleet-ui-workspaces-theme-cumulative-20260806-122",
-  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
-  "publishedAt": "2026-08-06T15:06:33.0166253Z",
+  "updateId": "browser-support-diagnostics-cumulative-20260807-129",
+  "displayName": "診断情報生成・更新ログ安全化",
+  "publishedAt": "2026-08-07T12:21:40.5798229Z",
   "customerId": "AF-KAZUMA-FINAL-20260714",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-fleet-ui-workspaces-theme-cumulative-20260806-122.zip",
-    "sha256": "a2d76ca115f61cb4d78acde43177d2f982d6c64b961c40d9e2fface4a835395e",
-    "bytes": 501861
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-KAZUMA-FINAL-20260714/artifacts/browser-support-diagnostics-cumulative-20260807-129.zip",
+    "sha256": "26ff4c14c4384c820164bc7c3190e16b00d942cd7f7807ddc86c925a07ec869e",
+    "bytes": 527970
   },
-  "signature": "TdD4HoRQYzwdqSFOm++duqZ8NaXgC3yNBeRYfESILAh4GcHhS3zUBsBT9+iWe1UzEi4+C4c3AzHBiwE6NekRCg=="
+  "signature": "an0TRz2Fho/G56OFmR92TsWF2bh83DO7OTA0eR8/hbFN5aFlspZNUFytHwTSIuhNOyWGjDfs4T/g/jCM/iYbDA=="
 }

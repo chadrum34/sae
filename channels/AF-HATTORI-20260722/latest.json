@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-fleet-ui-workspaces-theme-cumulative-20260806-124",
-  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
-  "publishedAt": "2026-08-06T15:06:33.8306945Z",
+  "updateId": "browser-support-diagnostics-cumulative-20260807-131",
+  "displayName": "診断情報生成・更新ログ安全化",
+  "publishedAt": "2026-08-07T12:21:42.2559018Z",
   "customerId": "AF-HATTORI-20260722",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-HATTORI-20260722/artifacts/browser-fleet-ui-workspaces-theme-cumulative-20260806-124.zip",
-    "sha256": "6bdaa3c2e47b7abb3841f31fe9ac5424870dbb9e099d7189d9c91f1b8103f34f",
-    "bytes": 487959
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-HATTORI-20260722/artifacts/browser-support-diagnostics-cumulative-20260807-131.zip",
+    "sha256": "0cee6d9a6e89d0cd2da490c48495df98be931acf40da635ec6f5677be9e7946b",
+    "bytes": 514010
   },
-  "signature": "bPdpdpcIXqxGdjo1KRI1HDeLdxeEe9jKgWYV2Rr43GOzw4MFH+q3O3pj84wVY/1YY9Eslrflb53GfQ9tZyzEAQ=="
+  "signature": "XkMWYQ9KXFvGMyyAOeItwYHH9a2JYmwNm8KdR5wFhkFz1zLrH7EnfQm5A99DXavpZkIBYwBQ2w+o1DzUr1GGDA=="
 }
