@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-support-diagnostics-cumulative-20260807-134",
-  "displayName": "診断情報生成・更新ログ安全化",
-  "publishedAt": "2026-08-07T12:21:44.5387902Z",
+  "updateId": "browser-public-release-notes-cumulative-20260808-141",
+  "displayName": "更新内容を画面で確認",
+  "publishedAt": "2026-08-07T21:33:50.9035290Z",
   "customerId": "AF-Z440-LOCAL-20260730",
   "packageId": "android-fleet-browser-z440-nokey-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-support-diagnostics-cumulative-20260807-134.zip",
-    "sha256": "a8ec993419c6a51fad09b98ed47a8e538259ac639aaaa709124ea314eff47ed6",
-    "bytes": 486875
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-Z440-LOCAL-20260730/artifacts/browser-public-release-notes-cumulative-20260808-141.zip",
+    "sha256": "7b527b5ba5f91f165f9be90a5afad3386617c5a18b2855c871ba6d2b134a9f9d",
+    "bytes": 489586
   },
-  "signature": "W/s5XFlRnQBxXJ5yA5q/WzLUbVnls5MzjdOm7CRXFpRHHJishW+EOwJPqiQNbjGAAcpMlSaoasWS4IrA5/s+AA=="
+  "signature": "C3rKG4CN7L56oRxcc1dNbwTbjfVgq4Uh0J18QGTsQfR+po0Dl3HV0DKc5qtxTrucyt5dW9dZubVsG6ojRMFDDQ=="
 }

@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-support-diagnostics-cumulative-20260807-130",
-  "displayName": "診断情報生成・更新ログ安全化",
-  "publishedAt": "2026-08-07T12:21:41.4672481Z",
+  "updateId": "browser-public-release-notes-cumulative-20260808-137",
+  "displayName": "更新内容を画面で確認",
+  "publishedAt": "2026-08-07T21:33:48.0321465Z",
   "customerId": "AF-MATSUDA-20260718",
   "packageId": "android-fleet-browser-agent-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-support-diagnostics-cumulative-20260807-130.zip",
-    "sha256": "f26602b1ce6b17498dd8c104d420f79225d2357d1412591266f27418c8a0513b",
-    "bytes": 527963
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-MATSUDA-20260718/artifacts/browser-public-release-notes-cumulative-20260808-137.zip",
+    "sha256": "ff99c58da641fa3cf03c28f79f0980511acc1a7b11cd622085504abd48eca47a",
+    "bytes": 530678
   },
-  "signature": "SSk+FxtUJ/ZeZoH58wBgb6zenuouGOnmCExwmNpUOVIXEKPVinsf7zCb463ret0ptjsHpdl7OxITZG4AYzZ1Aw=="
+  "signature": "yas0wT1dgu47b98OYIgMBoPGz9exKav+qEumIwNIwkVr4fvWwT6aTS2P/RXFabAW8+Z16ReJmWRJHvw1eWvnBw=="
 }
