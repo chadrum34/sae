@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-support-diagnostics-20260807-128",
-  "displayName": "診断情報生成・更新ログ安全化",
-  "publishedAt": "2026-08-07T12:16:58.1358357Z",
+  "updateId": "browser-public-release-notes-20260808-135",
+  "displayName": "更新内容を画面で確認",
+  "publishedAt": "2026-08-07T21:27:56.5665329Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-support-diagnostics-20260807-128.zip",
-    "sha256": "2b381d8dc7d998e847579efd08fbe408872fee07d16ce9730acac92fe59b9b86",
-    "bytes": 468767
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-public-release-notes-20260808-135.zip",
+    "sha256": "1c87df5a39b4c5eab746f323818901b22deee172806e8ede499c7a4b6c2c3168",
+    "bytes": 471502
   },
-  "signature": "LhcteyWRy6MVeJdU/4Xgolo8cxPIxLxFaSbmY4d6aGdnCwBKfSNXfYJW3HFpOC4Th27wns/3GxvHVUCn9GdmAg=="
+  "signature": "p/5y2LoCIENoYmUlnLQmpwrdIcemwFWVVgG2SJNxjB3tuFsPS1bUKeEJbgbBXwyYlv5qblQot5zQsgI9100BDA=="
 }
