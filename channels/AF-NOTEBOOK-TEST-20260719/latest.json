@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-fleet-ui-workspaces-theme-20260806-121",
-  "displayName": "Fleet全体UI整理・操作ポップアップ・配色統一",
-  "publishedAt": "2026-08-06T14:56:56.9431783Z",
+  "updateId": "browser-support-diagnostics-20260807-128",
+  "displayName": "診断情報生成・更新ログ安全化",
+  "publishedAt": "2026-08-07T12:16:58.1358357Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-fleet-ui-workspaces-theme-20260806-121.zip",
-    "sha256": "7500ad90a1e1b9970e427ad17cdf87574fba794a6f495d6672190692b24f6e93",
-    "bytes": 442669
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-support-diagnostics-20260807-128.zip",
+    "sha256": "2b381d8dc7d998e847579efd08fbe408872fee07d16ce9730acac92fe59b9b86",
+    "bytes": 468767
   },
-  "signature": "OvZ6I803W1cWn2UiZ67HowOIIJGgD5dtqKEcaMnxUj06/6hbf03mHRqFvjFLOdU9WkRD0iqEAhDtUMqyI3GGDA=="
+  "signature": "LhcteyWRy6MVeJdU/4Xgolo8cxPIxLxFaSbmY4d6aGdnCwBKfSNXfYJW3HFpOC4Th27wns/3GxvHVUCn9GdmAg=="
 }
