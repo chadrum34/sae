@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updateId": "browser-support-diagnostics-send-20260808-142",
+  "updateId": "browser-support-diagnostics-send-20260808-149",
   "displayName": "診断情報を直接送信",
-  "publishedAt": "2026-08-08T09:47:41.8610137Z",
+  "publishedAt": "2026-08-08T10:06:34.8941738Z",
   "customerId": "AF-NOTEBOOK-TEST-20260719",
   "packageId": "android-fleet-browser-notebook-test-v1",
   "artifact": {
-    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-support-diagnostics-send-20260808-142.zip",
-    "sha256": "367a12273d1d00f8e2ebfd50bd525f6ed278ba84bd03f1757c9ab8b9198a0119",
-    "bytes": 484470
+    "url": "https://raw.githubusercontent.com/chadrum34/sae/main/channels/AF-NOTEBOOK-TEST-20260719/artifacts/browser-support-diagnostics-send-20260808-149.zip",
+    "sha256": "05e0d78a9ebe179b37fb4223c5a27ca8dcfc4f81ee2f2d9eee63eeac14a02f00",
+    "bytes": 484826
   },
-  "signature": "LYCgjEYZ9z8zIeS8ceDXx6UDHwVDBnuYy50ClsSfdkb20ZawDj6g+y4U1vDQPu8zAJ4kDi06oz6HkVU3tqi9BA=="
+  "signature": "WtDpSp0GJwsgNjR0iWvBMJdelUg/fkIF9kgoQDMiaDQNdShAYXbWvLYKIyaTy/fmYZFGQfiIYWPCEQF+GncpCw=="
 }
